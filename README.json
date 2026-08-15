@@ -28,7 +28,7 @@
             "last_commit": "2024-04-25T10:22:39Z",
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5042
+            "stars": 5040
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-10-14T02:28:53Z",
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4987
+            "stars": 4986
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2020-03-19T03:14:29Z",
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7727
+            "stars": 7726
           }
         },
         {
@@ -680,7 +680,7 @@
             "last_commit": "2018-11-22T06:49:58Z",
             "owner": "tencentyun",
             "repo": "wafer-php-server-sdk",
-            "stars": 248
+            "stars": 247
           }
         },
         {
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:58:49.645Z",
+    "last_updated": "2026-08-15T20:52:03.908Z",
     "original_repository": "opendigg/awesome-github-wechat-weapp",
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
     "enhanced_repository": "enhansome/enhansome-github-wechat-weapp",
