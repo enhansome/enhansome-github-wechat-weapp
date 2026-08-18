@@ -14,7 +14,7 @@
             "last_commit": "2026-03-12T12:17:34Z",
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15277
+            "stars": 15278
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-03-18T07:48:11Z",
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22550
+            "stars": 22549
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2023-12-28T01:53:35Z",
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2067
+            "stars": 2068
           }
         },
         {
@@ -824,7 +824,7 @@
             "last_commit": "2019-10-22T00:55:37Z",
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1673
+            "stars": 1672
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2022-12-10T04:35:37Z",
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1461
+            "stars": 1460
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2018-03-28T15:42:46Z",
             "owner": "ericzyh",
             "repo": "wechat-chat",
-            "stars": 431
+            "stars": 432
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2019-06-11T03:40:41Z",
             "owner": "natee",
             "repo": "wxapp-2048",
-            "stars": 366
+            "stars": 365
           }
         },
         {
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:57:10.016Z",
+    "last_updated": "2026-08-18T20:53:30.135Z",
     "original_repository": "opendigg/awesome-github-wechat-weapp",
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
     "enhanced_repository": "enhansome/enhansome-github-wechat-weapp",
