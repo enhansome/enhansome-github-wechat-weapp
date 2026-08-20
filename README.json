@@ -15,7 +15,7 @@
             "last_commit": "2026-03-12T12:17:34Z",
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15278
+            "stars": 15277
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-02-04T02:12:25Z",
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2446
+            "stars": 2447
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-03-18T07:48:11Z",
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22549
+            "stars": 22550
           }
         },
         {
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:57:20.184Z",
+    "last_updated": "2026-08-20T20:58:51.306Z",
     "original_repository": "opendigg/awesome-github-wechat-weapp",
     "original_repository_id": 78544867,
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
