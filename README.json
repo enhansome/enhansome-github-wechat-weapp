@@ -15,7 +15,7 @@
             "last_commit": "2026-03-12T12:17:34Z",
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15277
+            "stars": 15278
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2020-03-19T03:14:29Z",
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7724
+            "stars": 7723
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2019-10-22T00:55:37Z",
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1672
+            "stars": 1671
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2020-08-10T17:18:03Z",
             "owner": "zce",
             "repo": "weapp-boilerplate",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:58:51.306Z",
+    "last_updated": "2026-08-21T20:53:47.667Z",
     "original_repository": "opendigg/awesome-github-wechat-weapp",
     "original_repository_id": 78544867,
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
