@@ -161,9 +161,9 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wejoke](https://github.com/zszdevelop/wejoke) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-18 ★11 - 微笑话微信小程序
 * [jspapa-wx](https://github.com/biggerV/jspapa-wx) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2019-10-29 ★12 - jspapa微信小程序版本
 * [labrador\_mobx\_example](https://github.com/spacedragon/labrador_mobx_example) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-11 ★4 - 基于Labrador和mobx构建的小程序开发demo
-* [weapp-demo](https://github.com/zce/weapp-demo) ⭐ 8 | 🐛 1 | 📅 2023-11-01 ★1086 - 仿豆瓣电影微信小程序
+* [weapp-demo](https://github.com/zce/weapp-demo) ⭐ 9 | 🐛 1 | 📅 2023-11-01 ★1086 - 仿豆瓣电影微信小程序
 * [WeChat\_ayibang](https://github.com/Sukura7/WeChat_ayibang) ★25 - 微信小程序仿阿姨帮
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

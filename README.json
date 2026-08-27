@@ -1941,7 +1941,7 @@
             "last_commit": "2023-11-01T20:10:32Z",
             "owner": "zce",
             "repo": "weapp-demo",
-            "stars": 8
+            "stars": 9
           }
         }
       ],
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:57:55.822Z",
+    "last_updated": "2026-08-27T00:01:16.128Z",
     "original_repository": "opendigg/awesome-github-wechat-weapp",
     "original_repository_id": 78544867,
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
