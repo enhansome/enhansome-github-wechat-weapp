@@ -1,6 +1,6 @@
 awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects) ⭐ 15 | 🐛 73 | 📅 2017-01-13给我们。
 
-如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-wechat-weapp/issues) ⭐ 9,466 | 🐛 12 | 📅 2020-08-16反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。
+如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-wechat-weapp/issues) ⭐ 9,467 | 🐛 12 | 📅 2020-08-16反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。
 
 # Awesome 内容 with stars
 
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
