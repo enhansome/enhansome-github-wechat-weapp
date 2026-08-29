@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UI library by WeChat official design team, includes the most useful widgets/modules.",
+            "homepage": null,
             "id": 72815138,
             "language": "Less",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-12T12:17:34Z",
+            "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15280
+            "stars": 15280,
+            "topics": [
+              "weui",
+              "wxss"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -26,12 +34,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库",
+            "homepage": "https://wuxui.com",
             "id": 78492853,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-25T10:22:39Z",
+            "open_issues": 30,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5038
+            "stars": 5038,
+            "topics": [
+              "bem-css",
+              "mini-program",
+              "miniprogram",
+              "ui-design",
+              "weapp",
+              "weapp-demo",
+              "wechat-weapp",
+              "weixin",
+              "wux",
+              "wux-weapp",
+              "wuxui",
+              "wx-component",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -42,12 +69,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序图表库，Charts for WeChat Mini Program",
+            "homepage": null,
             "id": 74959502,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-14T02:28:53Z",
+            "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4984
+            "stars": 4984,
+            "topics": [
+              "canvas",
+              "charts",
+              "mini-program",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -58,12 +95,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序－日历组件 📅",
+            "homepage": null,
             "id": 77998379,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T02:12:25Z",
+            "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2447
+            "stars": 2447,
+            "topics": [
+              "calendar",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -74,12 +119,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序Markdown渲染库",
+            "homepage": null,
             "id": 76116964,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-05T01:41:41Z",
+            "open_issues": 22,
             "owner": "TooBug",
             "repo": "wemark",
-            "stars": 1315
+            "stars": 1315,
+            "topics": [
+              "markdown",
+              "markdown-viewer",
+              "weapp",
+              "wechat",
+              "weixin",
+              "wxml",
+              "wxss",
+              "xiaochengxu"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -90,12 +149,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "适用于微信小程序的图片预加载组件",
+            "homepage": null,
             "id": 78162319,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-27T23:29:46Z",
+            "open_issues": 4,
             "owner": "o2team",
             "repo": "wxapp-img-loader",
-            "stars": 1100
+            "stars": 1100,
+            "topics": [
+              "wechat",
+              "wechat-app",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -106,12 +174,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "streakjs是一款多端JavaScript Canvas框架 ",
+            "homepage": "https://guyoung.github.io/streakjs",
             "id": 77574072,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-11-02T07:10:35Z",
+            "open_issues": 11,
             "owner": "guyoung",
             "repo": "streakjs",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "canvas",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -122,12 +198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 78422020,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-02-14T10:08:43Z",
+            "open_issues": 1,
             "owner": "youzouzou",
             "repo": "wxapp",
-            "stars": 548
+            "stars": 548,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -138,12 +219,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "本仓库已不再维护，请移步 https://github.com/youzan/vant-weapp",
+            "homepage": null,
             "id": 144392304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-21T07:31:14Z",
+            "open_issues": 5,
             "owner": "youzan",
             "repo": "zanui-weapp",
-            "stars": 532
+            "stars": 532,
+            "topics": [
+              "weapp",
+              "weixin",
+              "youzan",
+              "zanui"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -154,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wxSearch-微信小程序优雅的搜索框",
+            "homepage": null,
             "id": 73915345,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-16T17:23:51Z",
+            "open_issues": 9,
             "owner": "icindy",
             "repo": "wxSearch",
-            "stars": 532
+            "stars": 532,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -170,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序可滑动得tab-view",
+            "homepage": "http://www.yixiaocheng.com/",
             "id": 78727600,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-21T13:05:19Z",
+            "open_issues": 6,
             "owner": "zhongjie-chen",
             "repo": "wx-scrollable-tab-view",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -186,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "针对微信小程序整合的一套UI库",
+            "homepage": null,
             "id": 71103652,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-13T02:15:07Z",
+            "open_issues": 1,
             "owner": "liujians",
             "repo": "Wa-UI",
-            "stars": 311
+            "stars": 311,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -202,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "微信小程序toast增强插件",
+            "homepage": null,
             "id": 75173443,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-03-02T09:40:32Z",
+            "open_issues": 5,
             "owner": "kiinlam",
             "repo": "wetoast",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -218,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chartjs微信小程序适配",
+            "homepage": null,
             "id": 78615368,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-11T11:50:52Z",
+            "open_issues": 15,
             "owner": "xiabingwu",
             "repo": "chartjs-wechat-mini-app",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -234,12 +350,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏹微信小程序图表charts组件",
+            "homepage": null,
             "id": 72093711,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-04T16:28:51Z",
+            "open_issues": 5,
             "owner": "hawx1993",
             "repo": "wxapp-charts",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "chart"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -250,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序带字母滑动的listview",
+            "homepage": "http://www.yixiaocheng.com/",
             "id": 78426867,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-11T14:25:24Z",
+            "open_issues": 0,
             "owner": "zhongjie-chen",
             "repo": "wx-alphabetical-listview",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -266,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于微信小程序的城市选择",
+            "homepage": null,
             "id": 77965600,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-29T07:39:22Z",
+            "open_issues": 0,
             "owner": "chenjinxinlove",
             "repo": "citySelect",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -282,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序实现--列表的上拉刷新和上拉加载",
+            "homepage": null,
             "id": 69933094,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-16T07:53:46Z",
+            "open_issues": 3,
             "owner": "lidong1665",
             "repo": "WeiXinProject",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -298,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序模仿QQ6.0侧滑菜单 wx-drawer",
+            "homepage": "http://www.yixiaocheng.com/",
             "id": 78621711,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-12T09:37:29Z",
+            "open_issues": 3,
             "owner": "zhongjie-chen",
             "repo": "wx-drawer",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -314,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "收集来的微信小程序加载框布局LoadingView，不断更新中。",
+            "homepage": null,
             "id": 90757716,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-11-09T05:22:27Z",
+            "open_issues": 4,
             "owner": "qq273681448",
             "repo": "WechatLoading",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -330,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于微信小程序canvas的图表控件，适用于wepy框架",
+            "homepage": null,
             "id": 79314624,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-17T08:12:49Z",
+            "open_issues": 3,
             "owner": "CalvinHong",
             "repo": "wepy-com-charts",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -346,12 +499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "手势解锁",
+            "homepage": null,
             "id": 76418635,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-26T09:45:31Z",
+            "open_issues": 0,
             "owner": "yuanyang749",
             "repo": "wxapp-lock",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -362,12 +520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tabs for wechat app 微信小程序的多tab实现,各tab页面状态独立",
+            "homepage": null,
             "id": 78188182,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-01-06T08:52:40Z",
+            "open_issues": 1,
             "owner": "hss01248",
             "repo": "wxTabs",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -384,12 +547,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "小程序组件化开发框架 - 已归档",
+            "homepage": "https://wepyjs.gitee.io/wepy-docs/",
             "id": 73681508,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-18T07:48:11Z",
+            "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22547
+            "stars": 22547,
+            "topics": [
+              "weapp",
+              "wepy"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -400,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序模块化开发框架",
+            "homepage": null,
             "id": 69113698,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-10T06:07:03Z",
+            "open_issues": 29,
             "owner": "maichong",
             "repo": "labrador",
-            "stars": 1691
+            "stars": 1691,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -416,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序基本的开发框架抽取",
+            "homepage": null,
             "id": 73145872,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2016-11-09T08:58:46Z",
+            "open_issues": 1,
             "owner": "hss01248",
             "repo": "wxapp-devFrame",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -438,12 +619,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析",
+            "homepage": "http://weappdev.com/",
             "id": 71701257,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-03-19T03:14:29Z",
+            "open_issues": 218,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7723
+            "stars": 7723,
+            "topics": [
+              "html",
+              "markdown",
+              "weapp",
+              "weixin",
+              "wxparse-html-markdown"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -454,12 +646,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序Redux绑定",
+            "homepage": null,
             "id": 69541441,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-10T09:52:57Z",
+            "open_issues": 14,
             "owner": "charleyw",
             "repo": "wechat-weapp-redux",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "redux",
+              "redux-store",
+              "weapp",
+              "wechat-weapp-redux"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -470,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "百度地图微信小程序jsapi",
+            "homepage": null,
             "id": 78596536,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-05-18T09:22:40Z",
+            "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
-            "stars": 471
+            "stars": 471,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -486,12 +693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WxNotificationCenter - 微信小程序通知广播模式类,降低小程序之间的耦合度",
+            "homepage": null,
             "id": 72420788,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-13T07:12:26Z",
+            "open_issues": 4,
             "owner": "icindy",
             "repo": "WxNotificationCenter",
-            "stars": 419
+            "stars": 419,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -502,12 +714,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "让你的微信小程序支持谷歌统计(Google Analytics)",
+            "homepage": null,
             "id": 78647238,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-09-30T08:36:42Z",
+            "open_issues": 3,
             "owner": "rchunping",
             "repo": "wxapp-google-analytics",
-            "stars": 362
+            "stars": 362,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -518,12 +735,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 快速构建具备弹性能力的微信小程序",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 72420519,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-28T12:42:31Z",
+            "open_issues": 7,
             "owner": "tencentyun",
             "repo": "wafer-client-sdk",
-            "stars": 338
+            "stars": 338,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -534,12 +756,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "此项目已经迁移至：",
+            "homepage": "https://github.com/wxsocketio/weapp.socket.io",
             "id": 69558447,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-20T15:17:22Z",
+            "open_issues": 19,
             "owner": "weapp-socketio",
             "repo": "wxapp-socket-io",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "socket",
+              "weapp-socket"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -550,12 +780,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "微信小程序 仿jQuery插件 （已不再继续维护）",
+            "homepage": null,
             "id": 69416586,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-03T06:12:02Z",
+            "open_issues": 0,
             "owner": "stephenml",
             "repo": "wx-query",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "weixin-app",
+              "wx-query",
+              "xiaochengxu"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -566,12 +805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "野狗(wilddog)微信小程序客户端",
+            "homepage": null,
             "id": 71329792,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-25T06:30:22Z",
+            "open_issues": 7,
             "owner": "WildDogTeam",
             "repo": "wilddog-weapp",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -582,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "又拍云微信小程序 SDK",
+            "homepage": null,
             "id": 82655171,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-20T17:53:20Z",
+            "open_issues": 3,
             "owner": "upyun",
             "repo": "wechat-sdk",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -598,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A xstream wrapper for wechat app development 微信小程序的响应式编程类库封装",
+            "homepage": null,
             "id": 78022581,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-30T22:53:56Z",
+            "open_issues": 1,
             "owner": "wpcfan",
             "repo": "wxstream",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -620,12 +874,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序多端实时运行工具",
+            "homepage": null,
             "id": 70776647,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-27T01:50:14Z",
+            "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2969
+            "stars": 2969,
+            "topics": [
+              "miniapp",
+              "wechat",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -636,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小应用示例代码",
+            "homepage": null,
             "id": 68904971,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-27T23:25:47Z",
+            "open_issues": 0,
             "owner": "phodal",
             "repo": "weapp-quick",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -652,12 +920,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "提供微信小程序开发全方位支持的 vim 插件",
+            "homepage": null,
             "id": 69177844,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2019-06-22T17:39:28Z",
+            "open_issues": 0,
             "owner": "chemzqm",
             "repo": "wxapp.vim",
-            "stars": 409
+            "stars": 409,
+            "topics": [
+              "tern",
+              "wxml",
+              "wxss"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -668,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信开发者工具（wechat_web_devtools）Linux版，微信小程序Linux版，支持最新微信小程序开发和微信网页开发",
+            "homepage": null,
             "id": 73604289,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-04-12T02:33:46Z",
+            "open_issues": 28,
             "owner": "yuan1994",
             "repo": "wechat_web_devtools",
-            "stars": 385
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -684,12 +966,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Plugin to easy your work on Wechat Weapp . This can help you inject functions to js file .",
+            "homepage": null,
             "id": 69637039,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-11-22T07:16:40Z",
+            "open_issues": 7,
             "owner": "lypeer",
             "repo": "Matchmaker",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -706,12 +993,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":dog: 微信小程序-小商城后台（基于 Node.js、MongoDB、Redis 开发的系统...）",
+            "homepage": null,
             "id": 74636429,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-30T16:22:44Z",
+            "open_issues": 16,
             "owner": "skyvow",
             "repo": "m-mall-admin",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "es6",
+              "express",
+              "mongodb",
+              "node",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -722,12 +1020,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "专为小程序而生的服务端开发容器",
+            "homepage": "http://www.riversoft.com.cn",
             "id": 71684694,
             "language": "Roff",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-02T15:28:38Z",
+            "open_issues": 2,
             "owner": "wodenwang",
             "repo": "nami",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "groovy",
+              "javascript",
+              "nami",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -738,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 企业级微信小程序全栈方案",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 71493276,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2018-05-28T12:42:04Z",
+            "open_issues": 7,
             "owner": "tencentyun",
             "repo": "wafer-java-server-sdk",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -754,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 企业级微信小程序全栈方案",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 71493534,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-22T06:49:58Z",
+            "open_issues": 6,
             "owner": "tencentyun",
             "repo": "wafer-php-server-sdk",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -770,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 企业级微信小程序全栈方案",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 71493562,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-29T07:00:23Z",
+            "open_issues": 1,
             "owner": "tencentyun",
             "repo": "wafer-node-server-demo",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -786,12 +1109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序云端增强 SDK",
+            "homepage": "https://www.jianmo.ink",
             "id": 77748162,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-28T01:57:28Z",
+            "open_issues": 0,
             "owner": "trheyi",
             "repo": "xpmjs",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "baas",
+              "framework",
+              "javascript",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -808,12 +1141,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐑  咩咩单词：简易背单词的微信小程序",
+            "homepage": null,
             "id": 79907777,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-15T14:24:29Z",
+            "open_issues": 4,
             "owner": "airingursb",
             "repo": "miemie",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "es6",
+              "mini-program",
+              "wechat-app"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -824,12 +1166,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hellspawn-hunter-weapp",
+            "homepage": null,
             "id": 83112621,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-04-05T05:49:32Z",
+            "open_issues": 1,
             "owner": "bluedazzle",
             "repo": "hellspawn-hunter-weapp",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "html",
+              "python",
+              "weapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -840,12 +1191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://redrock.team/",
+            "homepage": null,
             "id": 620154653,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-28T06:15:57Z",
+            "open_issues": 0,
             "owner": "xcodest",
             "repo": "wecqupt",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -862,12 +1218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序-移动端商城",
+            "homepage": null,
             "id": 69181982,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-13T07:38:53Z",
+            "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2975
+            "stars": 2975,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -878,12 +1239,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬电影推荐 - 微信小程序",
+            "homepage": "https://sesine.com/mina",
             "id": 74745600,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-28T01:53:35Z",
+            "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2069
+            "stars": 2069,
+            "topics": [
+              "mina",
+              "weapp",
+              "wechat",
+              "weixin",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -894,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信中的知乎--微信小程序 demo // Zhihu in Wechat",
+            "homepage": null,
             "id": 71230351,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-27T11:45:25Z",
+            "open_issues": 13,
             "owner": "RebeccaHanjw",
             "repo": "weapp-wechat-zhihu",
-            "stars": 2021
+            "stars": 2021,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -910,12 +1287,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 商城demo",
+            "homepage": null,
             "id": 90327938,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-22T00:55:37Z",
+            "open_issues": 10,
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1670
+            "stars": 1670,
+            "topics": [
+              "wechat",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -926,12 +1311,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":dog: 微信小程序-小商城前台（基于 WeUI.wxss、ES6 前端技术开发...）",
+            "homepage": null,
             "id": 74635214,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-02-20T09:10:16Z",
+            "open_issues": 6,
             "owner": "skyvow",
             "repo": "m-mall",
-            "stars": 1551
+            "stars": 1551,
+            "topics": [
+              "promise-api",
+              "promise-wx",
+              "wxapp",
+              "wxss"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -942,12 +1337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "仿网易云音乐APP的微信小程序",
+            "homepage": null,
             "id": 75054661,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-10T04:35:37Z",
+            "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1460
+            "stars": 1460,
+            "topics": [
+              "javascript",
+              "miniapp",
+              "netease-music",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -958,12 +1363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序(微信应用号)微信小程序官方demo,官方文档,开发工具，高仿手机QQ应用程序,持续更新中...",
+            "homepage": null,
             "id": 69110606,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-11T05:36:59Z",
+            "open_issues": 3,
             "owner": "xiehui999",
             "repo": "SmallAppForQQ",
-            "stars": 1077
+            "stars": 1077,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -974,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🚀 跑步微信小程序",
+            "homepage": null,
             "id": 73377859,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-14T03:40:52Z",
+            "open_issues": 4,
             "owner": "alanwangmodify",
             "repo": "weChatApp-Run",
-            "stars": 896
+            "stars": 896,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -990,12 +1405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 69186547,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-28T08:41:36Z",
+            "open_issues": 7,
             "owner": "lypeer",
             "repo": "wechat-weapp-gank",
-            "stars": 742
+            "stars": 742,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1006,12 +1426,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序之小熊の日记",
+            "homepage": null,
             "id": 70252102,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-10T03:05:02Z",
+            "open_issues": 4,
             "owner": "harveyqing",
             "repo": "BearDiary",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "weapp",
+              "weapp-demo"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1022,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序-微票",
+            "homepage": null,
             "id": 69129424,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-24T22:23:19Z",
+            "open_issues": 11,
             "owner": "wangmingjob",
             "repo": "weapp-weipiao",
-            "stars": 617
+            "stars": 617,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1038,12 +1471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序开发mapdemo，地图导航、marker标注 ",
+            "homepage": null,
             "id": 68992226,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-15T02:59:04Z",
+            "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "markers",
+              "weapp",
+              "wechat",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1054,12 +1497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序demo 仿手机淘宝",
+            "homepage": null,
             "id": 72866580,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-06T16:12:52Z",
+            "open_issues": 5,
             "owner": "ChangQing666",
             "repo": "wechat-weapp-taobao",
-            "stars": 588
+            "stars": 588,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1070,12 +1518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序-v2ex",
+            "homepage": null,
             "id": 69117492,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-18T03:25:02Z",
+            "open_issues": 8,
             "owner": "jectychen",
             "repo": "wechat-v2ex",
-            "stars": 565
+            "stars": 565,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1086,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个为微信小程序开发准备的基础骨架。A boilerplate application for wechat weapp runtime.",
+            "homepage": null,
             "id": 69205909,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-08-10T17:18:03Z",
+            "open_issues": 4,
             "owner": "zce",
             "repo": "weapp-boilerplate",
-            "stars": 565
+            "stars": 565,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1102,12 +1560,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wepy仿微信聊天界面",
+            "homepage": null,
             "id": 74894152,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-06T16:46:15Z",
+            "open_issues": 19,
             "owner": "wepyjs",
             "repo": "wepy-wechat-demo",
-            "stars": 535
+            "stars": 535,
+            "topics": [
+              "demo",
+              "wechat",
+              "wepy"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1118,12 +1585,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A real mall wechat applet",
+            "homepage": null,
             "id": 69643864,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-11T09:09:42Z",
+            "open_issues": 2,
             "owner": "bayetech",
             "repo": "wechat_mall_applet",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "mini-program",
+              "wechat-app",
+              "wechat-weapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1134,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小应用-小程序-demo-仿芒果TV",
+            "homepage": null,
             "id": 70480883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-25T09:36:03Z",
+            "open_issues": 3,
             "owner": "web-Marker",
             "repo": "wechat-Development",
-            "stars": 526
+            "stars": 526,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1150,12 +1631,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 —— 新闻阅读器",
+            "homepage": null,
             "id": 74869426,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-26T12:21:02Z",
+            "open_issues": 0,
             "owner": "vace",
             "repo": "wechatapp-news-reader",
-            "stars": 525
+            "stars": 525,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1166,12 +1652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 企业级微信小程序全栈方案",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 71493378,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-01T08:06:41Z",
+            "open_issues": 7,
             "owner": "tencentyun",
             "repo": "wafer-client-demo",
-            "stars": 509
+            "stars": 509,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1182,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版聊天室",
+            "homepage": null,
             "id": 69469761,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-28T15:42:46Z",
+            "open_issues": 6,
             "owner": "ericzyh",
             "repo": "wechat-chat",
-            "stars": 432
+            "stars": 432,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1198,12 +1694,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序：音乐播放器   技术栈: redux + es7 +labrador",
+            "homepage": null,
             "id": 69268866,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-04T07:33:18Z",
+            "open_issues": 7,
             "owner": "eyasliu",
             "repo": "wechat-app-music",
-            "stars": 409
+            "stars": 409,
+            "topics": [
+              "wechat",
+              "wechat-app"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1214,12 +1718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 Artand",
+            "homepage": null,
             "id": 69688080,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-14T08:44:21Z",
+            "open_issues": 5,
             "owner": "SuperKieran",
             "repo": "weapp-artand",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1230,12 +1739,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序版番茄时钟",
+            "homepage": null,
             "id": 69022611,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-18T16:46:07Z",
+            "open_issues": 7,
             "owner": "ououpao",
             "repo": "timer",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1246,12 +1762,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[不再维护] 仿 「ONE · 一个」 的微信小程序",
+            "homepage": null,
             "id": 72900407,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-24T07:25:39Z",
+            "open_issues": 0,
             "owner": "ahonn",
             "repo": "weapp-one",
-            "stars": 378
+            "stars": 378,
+            "topics": [
+              "one",
+              "weapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1262,12 +1786,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "知乎Live微信小程序 & asyncio爬虫",
+            "homepage": "https://zhuanlan.zhihu.com/p/25530067",
             "id": 80972630,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-30T12:37:55Z",
+            "open_issues": 2,
             "owner": "dongweiming",
             "repo": "weapp-zhihulive",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "live",
+              "weapp",
+              "wechat",
+              "zhihu",
+              "zhihulive"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1278,12 +1813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序2048",
+            "homepage": null,
             "id": 69804853,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-06-11T03:40:41Z",
+            "open_issues": 2,
             "owner": "natee",
             "repo": "wxapp-2048",
-            "stars": 365
+            "stars": 365,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1294,12 +1834,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序-豆瓣电影",
+            "homepage": null,
             "id": 69010784,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-20T06:14:10Z",
+            "open_issues": 4,
             "owner": "hingsir",
             "repo": "weapp-douban-film",
-            "stars": 355
+            "stars": 355,
+            "topics": [
+              "douban",
+              "weapp",
+              "weixin",
+              "xiaochengxu"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1310,12 +1860,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于面包旅行 API 制作的微信小程序示例",
+            "homepage": null,
             "id": 72715498,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-27T10:09:30Z",
+            "open_issues": 0,
             "owner": "romoo",
             "repo": "weapp-demo-breadtrip",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "breadtrip",
+              "mini-program",
+              "weapp",
+              "wechat",
+              "weixin"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1326,12 +1887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[此项目已经过于久远，不再维护]",
+            "homepage": null,
             "id": 69105497,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-27T10:36:29Z",
+            "open_issues": 8,
             "owner": "myronliu347",
             "repo": "wechat-app-zhihudaily",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1342,12 +1908,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":speech_balloon:微信小程序版简易计算器demo，适合入门练手",
+            "homepage": null,
             "id": 69645670,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-15T03:42:50Z",
+            "open_issues": 2,
             "owner": "dunizb",
             "repo": "wxapp-sCalc",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "javascript",
+              "wechat",
+              "wechat-app",
+              "wechat-weapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1358,12 +1934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wechat app of girls scrapy spider via Node.js",
+            "homepage": null,
             "id": 69650283,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-01T14:32:24Z",
+            "open_issues": 1,
             "owner": "litt1e-p",
             "repo": "weapp-girls",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1374,12 +1955,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序，集成redux",
+            "homepage": null,
             "id": 69447197,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T12:18:30Z",
+            "open_issues": 16,
             "owner": "charleyw",
             "repo": "wechat-weapp-redux-todos",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "redux-devtools",
+              "weapp",
+              "wechat-weapp-redux"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1390,12 +1980,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HiApp 微信小程序版",
+            "homepage": "http://hi.dearb.me",
             "id": 69220739,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2019-10-15T08:20:30Z",
+            "open_issues": 2,
             "owner": "BelinChung",
             "repo": "weapp-hiapp",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "hiapp",
+              "redux",
+              "weapp",
+              "wepy",
+              "zanui"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1406,12 +2007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用微信小程序实现「分答」这款APP的基础功能",
+            "homepage": null,
             "id": 70406561,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-31T06:26:42Z",
+            "open_issues": 2,
             "owner": "davedavehong",
             "repo": "fenda-mock",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1422,12 +2028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序的Flex布局demo－4种必备常用的Flex布局模式",
+            "homepage": null,
             "id": 71196122,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2016-10-18T01:46:00Z",
+            "open_issues": 0,
             "owner": "icindy",
             "repo": "wxflex",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1438,12 +2049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简单的微信小程序购物车DEMO",
+            "homepage": null,
             "id": 69124216,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-25T02:50:47Z",
+            "open_issues": 1,
             "owner": "SeptemberMaples",
             "repo": "wechat-weapp-demo",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1454,12 +2070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版妹纸图",
+            "homepage": null,
             "id": 70173472,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-03T09:38:36Z",
+            "open_issues": 3,
             "owner": "bruc3van",
             "repo": "WeChatMeiZhi",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1470,12 +2091,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序-公众号热门文章信息流",
+            "homepage": null,
             "id": 69170024,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-09-26T01:32:55Z",
+            "open_issues": 1,
             "owner": "hijiangtao",
             "repo": "weapp-newsapp",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1486,12 +2112,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序模仿——网易云音乐",
+            "homepage": null,
             "id": 90253998,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-13T09:59:42Z",
+            "open_issues": 4,
             "owner": "MengZhaoFly",
             "repo": "wechatApp-netease_cloudmusic",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "js",
+              "wechat-app"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1502,12 +2136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wafer - 企业级微信小程序全栈方案",
+            "homepage": "https://github.com/tencentyun/wafer",
             "id": 71493562,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-29T07:00:23Z",
+            "open_issues": 1,
             "owner": "tencentyun",
             "repo": "wafer-node-server-demo",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1518,12 +2157,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序--健康菜谱",
+            "homepage": null,
             "id": 70572541,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-13T07:02:16Z",
+            "open_issues": 1,
             "owner": "qiantao94",
             "repo": "caipu_weixin",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "weixin-application"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1534,12 +2180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "learn wechat app flex layout first",
+            "homepage": null,
             "id": 69639959,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-08T05:19:00Z",
+            "open_issues": 1,
             "owner": "hardog",
             "repo": "wechat-app-flexlayout",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1550,12 +2201,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":musical_note: A music-player built with weixin platform.",
+            "homepage": null,
             "id": 79542448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-24T16:51:32Z",
+            "open_issues": 1,
             "owner": "xingbofeng",
             "repo": "wx-audio",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "javascript",
+              "wxapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1566,12 +2225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序 低仿百思不得姐",
+            "homepage": null,
             "id": 73711662,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-02T08:45:27Z",
+            "open_issues": 3,
             "owner": "ZhangHangwei",
             "repo": "WXBaiSi",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1582,12 +2246,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "weapp-500px",
+            "homepage": null,
             "id": 70281211,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-15T16:30:05Z",
+            "open_issues": 0,
             "owner": "fluency03",
             "repo": "weapp-500px",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "css",
+              "html",
+              "javascript",
+              "web",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1598,12 +2273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WxMasonry-微信小程序瀑布流布局模式",
+            "homepage": null,
             "id": 72925281,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-05T13:58:57Z",
+            "open_issues": 6,
             "owner": "icindy",
             "repo": "WxMasonry",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1614,12 +2294,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 微信小程序--github",
+            "homepage": null,
             "id": 69798568,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-05T11:34:38Z",
+            "open_issues": 1,
             "owner": "zhengxiaowai",
             "repo": "weapp-github",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1630,12 +2315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序 Sports News(体育新闻)",
+            "homepage": null,
             "id": 84669295,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-28T14:17:08Z",
+            "open_issues": 0,
             "owner": "havenxie",
             "repo": "weapp-sportsnews",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1646,12 +2336,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The weapp-session demo of wechat micro program",
+            "homepage": null,
             "id": 69313324,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-11-04T09:08:04Z",
+            "open_issues": 0,
             "owner": "CFETeam",
             "repo": "weapp-demo-session",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1662,12 +2357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版的扫雷（挖金子），前端代码",
+            "homepage": null,
             "id": 70560505,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-14T04:45:01Z",
+            "open_issues": 1,
             "owner": "jsongo",
             "repo": "wx-mime",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1678,12 +2378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序跟读",
+            "homepage": null,
             "id": 73702916,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-09T08:49:59Z",
+            "open_issues": 4,
             "owner": "gxmzjxk",
             "repo": "wxreading",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1694,12 +2399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版百思不得姐 - [ 先撕长裙,后撕短裤,百撕不得其姐 ]",
+            "homepage": null,
             "id": 75166180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-30T10:08:27Z",
+            "open_issues": 1,
             "owner": "Symous",
             "repo": "WechatApp-BaisiSister",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1710,12 +2420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "图书盒子Pro[小程序]-JMU图书馆",
+            "homepage": "http://bookbox.toadw.cn",
             "id": 82713097,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-02-27T20:13:14Z",
+            "open_issues": 0,
             "owner": "ToadWoo",
             "repo": "bookbox-wxapp",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1726,12 +2441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wxSortPickerView-微信小程序首字母排序选择表",
+            "homepage": "http://weappdev.com/",
             "id": 74357476,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-12T01:58:44Z",
+            "open_issues": 5,
             "owner": "icindy",
             "repo": "wxSortPickerView",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1742,12 +2462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小程序 hello world 尝鲜",
+            "homepage": null,
             "id": 68978569,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-24T08:50:19Z",
+            "open_issues": 0,
             "owner": "kunkun12",
             "repo": "weapp",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1758,12 +2483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序DEMO",
+            "homepage": null,
             "id": 75992434,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-03T11:26:51Z",
+            "open_issues": 0,
             "owner": "jiabinxu",
             "repo": "yiyaowang-wx",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1774,12 +2504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序--HotApp云笔记",
+            "homepage": null,
             "id": 74951368,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-22T06:57:00Z",
+            "open_issues": 0,
             "owner": "hotapp888",
             "repo": "hotapp-notepad",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1790,12 +2525,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序，微信小应用-英雄联盟(LOL)战绩查询",
+            "homepage": null,
             "id": 71094356,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-12T13:40:10Z",
+            "open_issues": 0,
             "owner": "xiaowenxia",
             "repo": "weapp-lolgame",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "js",
+              "lol",
+              "weapp",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1806,12 +2551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版豆瓣电影",
+            "homepage": null,
             "id": 69834324,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-03T02:17:12Z",
+            "open_issues": 0,
             "owner": "David-Guo",
             "repo": "weapp-douban-movie",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1822,12 +2572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gank.io (干货集中营) 微信小程序 版本",
+            "homepage": null,
             "id": 70714237,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-13T05:32:31Z",
+            "open_issues": 0,
             "owner": "iwgang",
             "repo": "GankCamp-WechatAPP",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1838,12 +2593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "V2ex 微信小程序版",
+            "homepage": null,
             "id": 69880041,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-21T13:59:35Z",
+            "open_issues": 0,
             "owner": "bestony",
             "repo": "weapp-V2ex",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1854,12 +2614,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Little Wechat App Created On A Hackathon Held By iFanr x Segmentfault in GuangZhou",
+            "homepage": null,
             "id": 70324245,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-09T01:41:16Z",
+            "open_issues": 2,
             "owner": "SeaHub",
             "repo": "PigRaising",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1870,12 +2635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序实现2048小游戏",
+            "homepage": null,
             "id": 70121612,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-06T11:35:51Z",
+            "open_issues": 0,
             "owner": "RedLove",
             "repo": "WexinApp_1024",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1886,12 +2656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一步步开发微信小程序",
+            "homepage": null,
             "id": 68944831,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-11-13T10:12:00Z",
+            "open_issues": 0,
             "owner": "Gavin-YYC",
             "repo": "wxApp",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1902,12 +2677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your another Github client written with WeApp",
+            "homepage": null,
             "id": 70487661,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-11T13:04:16Z",
+            "open_issues": 2,
             "owner": "uniquexiaobai",
             "repo": "wechat-app-githubfeed",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1918,12 +2698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序，小姨妈。代码很乱，练手为主",
+            "homepage": null,
             "id": 70211937,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-07T05:16:17Z",
+            "open_issues": 0,
             "owner": "iamjs1",
             "repo": "wechat-app-xiaoyima",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1934,12 +2719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序--逗乐",
+            "homepage": null,
             "id": 70764429,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-23T16:08:07Z",
+            "open_issues": 0,
             "owner": "mkxiansheng",
             "repo": "doule",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1950,12 +2740,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个微信小程序通过 DDP 协议和 Meteor 后端交换数据的简单例子",
+            "homepage": null,
             "id": 69986397,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-08-08T07:08:43Z",
+            "open_issues": 2,
             "owner": "leijing7",
             "repo": "wx-mina-meteor",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1966,12 +2761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序版的CNodeJs中文社区",
+            "homepage": null,
             "id": 69311712,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-10T02:54:34Z",
+            "open_issues": 0,
             "owner": "Shaman05",
             "repo": "CNodeJs-WXAPP",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1982,12 +2782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序开发的app---礼物说APP",
+            "homepage": null,
             "id": 71239572,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-19T13:39:24Z",
+            "open_issues": 3,
             "owner": "chongbenben",
             "repo": "liwushuoapp",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -1998,12 +2803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LeanCloud 的微信小程序用户登陆Demo",
+            "homepage": null,
             "id": 70332844,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-08T13:31:51Z",
+            "open_issues": 0,
             "owner": "xiqingongzi",
             "repo": "weapp-LeanCloud",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -2014,12 +2824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微笑话--微信小程序",
+            "homepage": null,
             "id": 78595582,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-18T01:51:10Z",
+            "open_issues": 1,
             "owner": "zszdevelop",
             "repo": "wejoke",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -2030,12 +2845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jspapa微信小程序版本，官网：https://www.jspapa.com",
+            "homepage": null,
             "id": 75062596,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-29T02:13:38Z",
+            "open_issues": 0,
             "owner": "biggerV",
             "repo": "jspapa-wx",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -2046,12 +2866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 78942644,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-05-11T03:07:16Z",
+            "open_issues": 0,
             "owner": "spacedragon",
             "repo": "labrador_mobx_example",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         },
@@ -2062,12 +2887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微信小程序示例教程，案例涉及某瓣，所以下线了：https://github.com/zce/weapp-douban",
+            "homepage": null,
             "id": 388665457,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-11-01T20:10:32Z",
+            "open_issues": 1,
             "owner": "zce",
             "repo": "weapp-demo",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
         }
@@ -2076,15 +2906,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:53:53.572Z",
+    "last_updated": "2026-08-29T04:13:34.426Z",
     "original_repository_info": {
       "archived": false,
+      "description": "微信小程序开源项目库汇总",
+      "homepage": "http://www.opendigg.com/tags/wechat-app",
       "id": 78544867,
       "language": null,
+      "license": null,
       "last_commit": "2020-08-16T11:36:42Z",
+      "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9467
+      "stars": 9467,
+      "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
     "enhanced_repository": "enhansome/enhansome-github-wechat-weapp",
