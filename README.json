@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15275,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4987,
+            "stars": 4986,
             "topics": [
               "canvas",
               "charts",
@@ -628,7 +628,7 @@
             "open_issues": 218,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7721,
+            "stars": 7720,
             "topics": [
               "html",
               "markdown",
@@ -677,7 +677,7 @@
             "id": 78596536,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2022-05-18T09:22:40Z",
+            "last_commit": "2026-09-03T11:08:34Z",
             "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:48:10.453Z",
+    "last_updated": "2026-09-03T22:46:47.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9470,
+      "stars": 9474,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
