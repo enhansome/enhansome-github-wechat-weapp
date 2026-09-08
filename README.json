@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15276,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2446,
+            "stars": 2447,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22543,
+            "stars": 22541,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 218,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7720,
+            "stars": 7718,
             "topics": [
               "html",
               "markdown",
@@ -1320,7 +1320,7 @@
             "open_issues": 6,
             "owner": "skyvow",
             "repo": "m-mall",
-            "stars": 1550,
+            "stars": 1549,
             "topics": [
               "promise-api",
               "promise-wx",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:58:03.273Z",
+    "last_updated": "2026-09-08T22:55:59.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
