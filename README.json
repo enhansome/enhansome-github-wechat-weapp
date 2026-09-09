@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15274,
+            "stars": 15273,
             "topics": [
               "weui",
               "wxss"
@@ -254,7 +254,7 @@
             "open_issues": 9,
             "owner": "icindy",
             "repo": "wxSearch",
-            "stars": 531,
+            "stars": 530,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -789,7 +789,7 @@
             "open_issues": 0,
             "owner": "stephenml",
             "repo": "wx-query",
-            "stars": 98,
+            "stars": 96,
             "topics": [
               "weixin-app",
               "wx-query",
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2976,
+            "stars": 2975,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2069,
+            "stars": 2068,
             "topics": [
               "mina",
               "weapp",
@@ -1275,7 +1275,7 @@
             "open_issues": 13,
             "owner": "RebeccaHanjw",
             "repo": "weapp-wechat-zhihu",
-            "stars": 2020,
+            "stars": 2019,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1372,7 +1372,7 @@
             "open_issues": 3,
             "owner": "xiehui999",
             "repo": "SmallAppForQQ",
-            "stars": 1077,
+            "stars": 1076,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2002,27 +2002,6 @@
         },
         {
           "node_type": "item",
-          "title": "fenda-mock",
-          "description": "★153 - 使用微信小程序实现分答这款APP的基础功能",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "使用微信小程序实现「分答」这款APP的基础功能",
-            "homepage": null,
-            "id": 70406561,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2018-05-31T06:26:42Z",
-            "open_issues": 2,
-            "owner": "davedavehong",
-            "repo": "fenda-mock",
-            "stars": 221,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "wxflex",
           "description": "★75 - 微信小程序的Flex布局demo",
           "children": [],
@@ -2038,6 +2017,27 @@
             "owner": "icindy",
             "repo": "wxflex",
             "stars": 221,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fenda-mock",
+          "description": "★153 - 使用微信小程序实现分答这款APP的基础功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "使用微信小程序实现「分答」这款APP的基础功能",
+            "homepage": null,
+            "id": 70406561,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2018-05-31T06:26:42Z",
+            "open_issues": 2,
+            "owner": "davedavehong",
+            "repo": "fenda-mock",
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2234,7 +2234,7 @@
             "open_issues": 3,
             "owner": "ZhangHangwei",
             "repo": "WXBaiSi",
-            "stars": 147,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2303,7 +2303,7 @@
             "open_issues": 1,
             "owner": "zhengxiaowai",
             "repo": "weapp-github",
-            "stars": 124,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2665,7 +2665,7 @@
             "open_issues": 0,
             "owner": "Gavin-YYC",
             "repo": "wxApp",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T22:55:59.840Z",
+    "last_updated": "2026-09-09T22:42:59.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9477,
+      "stars": 9476,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
