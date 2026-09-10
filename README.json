@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15273,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 30,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5037,
+            "stars": 5038,
             "topics": [
               "bem-css",
               "mini-program",
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4986,
+            "stars": 4985,
             "topics": [
               "canvas",
               "charts",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22541,
+            "stars": 22540,
             "topics": [
               "weapp",
               "wepy"
@@ -677,7 +677,7 @@
             "id": 78596536,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-04T03:55:51Z",
+            "last_commit": "2026-09-10T05:59:20Z",
             "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
@@ -1414,7 +1414,7 @@
             "open_issues": 7,
             "owner": "lypeer",
             "repo": "wechat-weapp-gank",
-            "stars": 742,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1569,7 +1569,7 @@
             "open_issues": 19,
             "owner": "wepyjs",
             "repo": "wepy-wechat-demo",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "demo",
               "wechat",
@@ -2609,27 +2609,6 @@
         },
         {
           "node_type": "item",
-          "title": "PigRaising",
-          "description": "★20 - 专注管理时间的微信小程序",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A Little Wechat App Created On A Hackathon Held By iFanr x Segmentfault in GuangZhou",
-            "homepage": null,
-            "id": 70324245,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2016-10-09T01:41:16Z",
-            "open_issues": 2,
-            "owner": "SeaHub",
-            "repo": "PigRaising",
-            "stars": 44,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "WexinApp_1024",
           "description": "★16 - 简单的实现了1024的游戏规则",
           "children": [],
@@ -2644,6 +2623,27 @@
             "open_issues": 0,
             "owner": "RedLove",
             "repo": "WexinApp_1024",
+            "stars": 45,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PigRaising",
+          "description": "★20 - 专注管理时间的微信小程序",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A Little Wechat App Created On A Hackathon Held By iFanr x Segmentfault in GuangZhou",
+            "homepage": null,
+            "id": 70324245,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2016-10-09T01:41:16Z",
+            "open_issues": 2,
+            "owner": "SeaHub",
+            "repo": "PigRaising",
             "stars": 44,
             "topics": []
           },
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:42:59.789Z",
+    "last_updated": "2026-09-10T22:44:30.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9476,
+      "stars": 9475,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
