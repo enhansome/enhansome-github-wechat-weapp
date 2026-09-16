@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4986,
+            "stars": 4987,
             "topics": [
               "canvas",
               "charts",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22539,
+            "stars": 22538,
             "topics": [
               "weapp",
               "wepy"
@@ -2861,6 +2861,27 @@
         },
         {
           "node_type": "item",
+          "title": "weapp-demo",
+          "description": "★1086 - 仿豆瓣电影微信小程序",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "微信小程序示例教程，案例涉及某瓣，所以下线了：https://github.com/zce/weapp-douban",
+            "homepage": null,
+            "id": 388665457,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2023-11-01T20:10:32Z",
+            "open_issues": 1,
+            "owner": "zce",
+            "repo": "weapp-demo",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
           "title": "labrador_mobx_example",
           "description": "★4 - 基于Labrador和mobx构建的小程序开发demo",
           "children": [],
@@ -2879,34 +2900,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
-          "title": "weapp-demo",
-          "description": "★1086 - 仿豆瓣电影微信小程序",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "微信小程序示例教程，案例涉及某瓣，所以下线了：https://github.com/zce/weapp-douban",
-            "homepage": null,
-            "id": 388665457,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2023-11-01T20:10:32Z",
-            "open_issues": 1,
-            "owner": "zce",
-            "repo": "weapp-demo",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
         }
       ],
       "title": "Demo"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:08:18.281Z",
+    "last_updated": "2026-09-16T23:12:48.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9481,
+      "stars": 9482,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
