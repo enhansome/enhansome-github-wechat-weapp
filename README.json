@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15273,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 30,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5039,
+            "stars": 5038,
             "topics": [
               "bem-css",
               "mini-program",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22538,
+            "stars": 22537,
             "topics": [
               "weapp",
               "wepy"
@@ -625,10 +625,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2020-03-19T03:14:29Z",
-            "open_issues": 218,
+            "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7717,
+            "stars": 7716,
             "topics": [
               "html",
               "markdown",
@@ -1002,7 +1002,7 @@
             "open_issues": 16,
             "owner": "skyvow",
             "repo": "m-mall-admin",
-            "stars": 943,
+            "stars": 944,
             "topics": [
               "es6",
               "express",
@@ -1055,7 +1055,7 @@
             "open_issues": 7,
             "owner": "tencentyun",
             "repo": "wafer-java-server-sdk",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2068,
+            "stars": 2067,
             "topics": [
               "mina",
               "weapp",
@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610,
+            "stars": 609,
             "topics": [
               "markers",
               "weapp",
@@ -1569,7 +1569,7 @@
             "open_issues": 19,
             "owner": "wepyjs",
             "repo": "wepy-wechat-demo",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "demo",
               "wechat",
@@ -2408,7 +2408,7 @@
             "open_issues": 1,
             "owner": "Symous",
             "repo": "WechatApp-BaisiSister",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:12:48.400Z",
+    "last_updated": "2026-09-17T23:02:06.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9482,
+      "stars": 9484,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",

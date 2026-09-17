@@ -1,6 +1,6 @@
-awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects) ⭐ 15 | 🐛 73 | 📅 2017-01-13给我们。
+awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects) ⭐ 15 | 🐛 74 | 📅 2017-01-13给我们。
 
-如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-wechat-weapp/issues) ⭐ 9,482 | 🐛 12 | 📅 2020-08-16反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。
+如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-wechat-weapp/issues) ⭐ 9,484 | 🐛 12 | 📅 2020-08-16反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。
 
 # Awesome 内容 with stars
 
@@ -14,8 +14,8 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## UI组件
 
-* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,273 | 🐛 65 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
-* [wux](https://github.com/skyvow/wux) ⭐ 5,039 | 🐛 30 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
+* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,274 | 🐛 65 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
+* [wux](https://github.com/skyvow/wux) ⭐ 5,038 | 🐛 30 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
 * [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,987 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
 * [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,448 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
 * [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
@@ -46,7 +46,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 实用库
 
-* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,717 | 🐛 218 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
+* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,716 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
 * [wechat-weapp-redux](https://github.com/charleyw/wechat-weapp-redux) ⭐ 478 | 🐛 14 | 🌐 JavaScript | 📅 2018-07-10 ★189 - 微信小程序Redux绑定
 * [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ⭐ 471 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-10 ★49 - 百度地图微信小程序
 * [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter) ⭐ 419 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-13 ★86 - 微信小程序通知广播模式类
@@ -72,7 +72,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 * [m-mall-admin](https://github.com/skyvow/m-mall-admin) ⚠️ Archived ★137 - 创建REST API的样板应用
 * [NAMI](https://github.com/wodenwang/nami) ⭐ 315 | 🐛 2 | 🌐 Roff | 📅 2017-05-02 ★79 - 专为小程序而生的服务端开发容器
-* [Wafer 服务端 SDK - Java](https://github.com/tencentyun/weapp-java-server-sdk) ⭐ 262 | 🐛 7 | 🌐 Java | 📅 2018-05-28 ★67 - 企业级微信小程序全栈方案
+* [Wafer 服务端 SDK - Java](https://github.com/tencentyun/weapp-java-server-sdk) ⭐ 263 | 🐛 7 | 🌐 Java | 📅 2018-05-28 ★67 - 企业级微信小程序全栈方案
 * [weapp-php-server-sdk](https://github.com/tencentyun/weapp-php-server-sdk) ⭐ 247 | 🐛 6 | 🌐 PHP | 📅 2018-11-22 ★42 - 腾讯云微信小程序云端解决方案
 * [weapp-node-server-demo](https://github.com/tencentyun/weapp-node-server-demo) ⭐ 195 | 🐛 1 | 🌐 JavaScript | 📅 2017-08-29 ★72 - Wafer 服务端 Demo
 * [xpmjs](https://github.com/XpmJS/xpmjs) ⭐ 174 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-28 ★67 - 小程序云端增强 SDK
@@ -87,7 +87,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 ## Demo
 
 * [wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) ⭐ 2,975 | 🐛 18 | 🌐 JavaScript | 📅 2017-10-13 ★750 - 微信小程序移动端商城
-* [wechat-weapp-movie](https://github.com/yesifeng/wechat-weapp-movie) ⭐ 2,068 | 🐛 70 | 🌐 JavaScript | 📅 2023-12-28 ★182 - 微信小程序 - 电影推荐
+* [wechat-weapp-movie](https://github.com/yesifeng/wechat-weapp-movie) ⭐ 2,067 | 🐛 70 | 🌐 JavaScript | 📅 2023-12-28 ★182 - 微信小程序 - 电影推荐
 * [weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) ⭐ 2,019 | 🐛 13 | 🌐 JavaScript | 📅 2022-10-27 ★518 - 微信中的知乎
 * [wxapp-mall](https://github.com/lin-xin/wxapp-mall) ⭐ 1,670 | 🐛 10 | 🌐 JavaScript | 📅 2019-10-22 ★22 - 微信小程序商城demo
 * [m-mall](https://github.com/skyvow/m-mall) ⚠️ Archived ★328 - 实现一个移动端小商城
@@ -97,11 +97,11 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 741 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 ★604 - Gank微信小程序
 * [BearDiary](https://github.com/harveyqing/BearDiary) ⭐ 627 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-10 ★97 - 微信小程序之小熊の日记
 * [weapp-weipiao](https://github.com/wangmingjob/weapp-weipiao) ⭐ 617 | 🐛 11 | 🌐 JavaScript | 📅 2016-09-24 ★234 - 微信小程序-微票
-* [wechat-weapp-mapdemo](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 610 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15 ★152 - 微信小程序开发demo-地图定位
+* [wechat-weapp-mapdemo](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 609 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15 ★152 - 微信小程序开发demo-地图定位
 * [wechat-weapp-taobao](https://github.com/ChangQing666/wechat-weapp-taobao) ⭐ 588 | 🐛 5 | 🌐 JavaScript | 📅 2016-11-06 ★227 - 微信小程序demo 仿手机淘宝
 * [wechat-v2ex](https://github.com/jectychen/wechat-v2ex) ⭐ 566 | 🐛 8 | 🌐 JavaScript | 📅 2020-09-18 ★235 - 简单的v2ex微信小程序
 * [weapp-boilerplate](https://github.com/zce/weapp-boilerplate) ⭐ 565 | 🐛 4 | 🌐 JavaScript | 📅 2020-08-10 ★220 - 一个为微信小程序开发准备的基础骨架
-* [wepy-wechat-demo](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 536 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06 ★105 - wepy仿微信聊天界面
+* [wepy-wechat-demo](https://github.com/wepyjs/wepy-wechat-demo) ⭐ 537 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-06 ★105 - wepy仿微信聊天界面
 * [wechat\_mall\_applet](https://github.com/bayetech/wechat_mall_applet) ⚠️ Archived ★201 - 巴爷微信商城的简单版本
 * [仿芒果TV](https://github.com/web-Marker/wechat-Development) ⭐ 526 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-25 ★326 - 微信小程序demo
 * [wechatapp-news-reader](https://github.com/vace/wechatapp-news-reader) ⭐ 525 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-26 ★59 - 新闻阅读器
@@ -138,7 +138,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [weapp-demo-session](https://github.com/CFETeam/weapp-demo-session) ⚠️ Archived ★66 - 微信小程序示例一笔到底
 * [wx-mime](https://github.com/jsongo/wx-mime) ⭐ 116 | 🐛 1 | 🌐 JavaScript | 📅 2016-10-14 ★20 - 微信小程序版的扫雷
 * [wxreading](https://github.com/gxmzjxk/wxreading) ⭐ 99 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-09 ★28 - 微信小程序跟读
-* [WechatApp-BaisiSister](https://github.com/Symous/WechatApp-BaisiSister) ⭐ 88 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-30 ★26 - 微信小程序版百思不得姐
+* [WechatApp-BaisiSister](https://github.com/Symous/WechatApp-BaisiSister) ⭐ 89 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-30 ★26 - 微信小程序版百思不得姐
 * [bookbox-wxapp](https://github.com/ToadWoo/bookbox-wxapp) ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-27 ★37 - 集美大学图书馆的便捷工具
 * [wxSortPickerView](https://github.com/icindy/wxSortPickerView) ⭐ 85 | 🐛 5 | 🌐 JavaScript | 📅 2018-01-12 ★17 - 微信小程序首字母排序选择表
 * [weapp](https://github.com/kunkun12/weapp) ⭐ 78 | 🐛 0 | 🌐 JavaScript | 📅 2018-03-24 ★26 - 小程序 hello world 尝鲜
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
