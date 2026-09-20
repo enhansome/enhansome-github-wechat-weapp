@@ -92,7 +92,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wxapp-mall](https://github.com/lin-xin/wxapp-mall) ⭐ 1,670 | 🐛 10 | 🌐 JavaScript | 📅 2019-10-22 ★22 - 微信小程序商城demo
 * [m-mall](https://github.com/skyvow/m-mall) ⚠️ Archived ★328 - 实现一个移动端小商城
 * [netmusic-app](https://github.com/sqaiyan/netmusic-app) ⭐ 1,458 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-10 ★95 - 仿网易云音乐APP的微信小程序
-* [SmallAppForQQ](https://github.com/xiehui999/SmallAppForQQ) ⭐ 1,076 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-11 ★561 - 微信小程序高仿QQ应用
+* [SmallAppForQQ](https://github.com/xiehui999/SmallAppForQQ) ⭐ 1,077 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-11 ★561 - 微信小程序高仿QQ应用
 * [weChatApp-Run](https://github.com/alanwangmodify/weChatApp-Run) ⭐ 895 | 🐛 4 | 🌐 JavaScript | 📅 2016-11-14 ★265 - 跑步微信小程序Demo
 * [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 741 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 ★604 - Gank微信小程序
 * [BearDiary](https://github.com/harveyqing/BearDiary) ⭐ 627 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-10 ★97 - 微信小程序之小熊の日记
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
