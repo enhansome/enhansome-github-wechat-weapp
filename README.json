@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15277,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2448,
+            "stars": 2449,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22537,
+            "stars": 22538,
             "topics": [
               "weapp",
               "wepy"
@@ -681,7 +681,7 @@
             "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2067,
+            "stars": 2068,
             "topics": [
               "mina",
               "weapp",
@@ -1640,7 +1640,7 @@
             "open_issues": 0,
             "owner": "vace",
             "repo": "wechatapp-news-reader",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:31:28.042Z",
+    "last_updated": "2026-09-22T23:12:50.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9486,
+      "stars": 9488,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
