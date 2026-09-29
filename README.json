@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15277,
+            "stars": 15278,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 30,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5039,
+            "stars": 5038,
             "topics": [
               "bem-css",
               "mini-program",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22540,
+            "stars": 22538,
             "topics": [
               "weapp",
               "wepy"
@@ -883,7 +883,7 @@
             "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2969,
+            "stars": 2968,
             "topics": [
               "miniapp",
               "wechat",
@@ -1097,7 +1097,7 @@
             "open_issues": 1,
             "owner": "tencentyun",
             "repo": "wafer-node-server-demo",
-            "stars": 195,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2976,
+            "stars": 2977,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2145,7 +2145,7 @@
             "open_issues": 1,
             "owner": "tencentyun",
             "repo": "wafer-node-server-demo",
-            "stars": 195,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2429,7 +2429,7 @@
             "open_issues": 0,
             "owner": "ToadWoo",
             "repo": "bookbox-wxapp",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:21:12.283Z",
+    "last_updated": "2026-09-29T00:29:55.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
