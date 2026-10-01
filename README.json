@@ -1275,7 +1275,7 @@
             "open_issues": 13,
             "owner": "RebeccaHanjw",
             "repo": "weapp-wechat-zhihu",
-            "stars": 2017,
+            "stars": 2016,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:55:56.813Z",
+    "last_updated": "2026-10-01T00:08:52.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
