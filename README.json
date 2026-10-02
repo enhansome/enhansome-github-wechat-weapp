@@ -1527,7 +1527,7 @@
             "open_issues": 8,
             "owner": "jectychen",
             "repo": "wechat-v2ex",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2255,7 +2255,7 @@
             "open_issues": 0,
             "owner": "fluency03",
             "repo": "weapp-500px",
-            "stars": 143,
+            "stars": 142,
             "topics": [
               "css",
               "html",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:08:52.875Z",
+    "last_updated": "2026-10-02T00:06:54.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9491,
+      "stars": 9492,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
