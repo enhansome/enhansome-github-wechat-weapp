@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15278,
+            "stars": 15275,
             "topics": [
               "weui",
               "wxss"
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4988,
+            "stars": 4987,
             "topics": [
               "canvas",
               "charts",
@@ -1795,7 +1795,7 @@
             "open_issues": 2,
             "owner": "dongweiming",
             "repo": "weapp-zhihulive",
-            "stars": 368,
+            "stars": 367,
             "topics": [
               "live",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:31:46.256Z",
+    "last_updated": "2026-10-06T01:24:04.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9491,
+      "stars": 9490,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",

@@ -14,9 +14,9 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## UI组件
 
-* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,278 | 🐛 65 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
+* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,275 | 🐛 65 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
 * [wux](https://github.com/skyvow/wux) ⭐ 5,037 | 🐛 30 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
-* [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,988 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
+* [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,987 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
 * [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,448 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
 * [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
 * [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,099 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
@@ -111,7 +111,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [Artand](https://github.com/SuperKieran/weapp-artand) ⭐ 403 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-14 ★123 - 微信小程序
 * [番茄时钟](https://github.com/kraaas/timer) ⭐ 384 | 🐛 7 | 🌐 JavaScript | 📅 2019-02-18 ★75 - 番茄时钟微信小程序版
 * [weapp-one](https://github.com/ahonn/weapp-one) ⚠️ Archived ★104 - 仿 「ONE · 一个」 的微信小程序
-* [weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive) ⭐ 368 | 🐛 2 | 🌐 Python | 📅 2017-11-30 ★98 - 基于Zhihu Live数据的微信小程序
+* [weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive) ⭐ 367 | 🐛 2 | 🌐 Python | 📅 2017-11-30 ★98 - 基于Zhihu Live数据的微信小程序
 * [wxapp-2048](https://github.com/natee/wxapp-2048) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2019-06-11 ★32 - 微信小程序2048
 * [weapp-douban-film](https://github.com/hingsir/weapp-douban-film) ⭐ 356 | 🐛 4 | 🌐 JavaScript | 📅 2017-01-20 ★112 - 微信小程序 - 豆瓣电影
 * [weapp-demo-breadtrip](https://github.com/romoo/weapp-demo-breadtrip) ⭐ 313 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-27 ★62 - 基于面包旅行 API 制作的微信小程序示例
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
