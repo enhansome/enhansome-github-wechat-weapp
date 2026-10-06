@@ -1682,7 +1682,7 @@
             "open_issues": 6,
             "owner": "ericzyh",
             "repo": "wechat-chat",
-            "stars": 433,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1795,7 +1795,7 @@
             "open_issues": 2,
             "owner": "dongweiming",
             "repo": "weapp-zhihulive",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "live",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:24:04.897Z",
+    "last_updated": "2026-10-06T10:29:28.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9490,
+      "stars": 9491,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",

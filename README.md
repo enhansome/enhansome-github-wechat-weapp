@@ -106,12 +106,12 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [仿芒果TV](https://github.com/web-Marker/wechat-Development) ⭐ 527 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-25 ★326 - 微信小程序demo
 * [wechatapp-news-reader](https://github.com/vace/wechatapp-news-reader) ⭐ 526 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-26 ★59 - 新闻阅读器
 * [腾讯云微信小程序](https://github.com/tencentyun/weapp-client-demo) ⭐ 509 | 🐛 7 | 🌐 JavaScript | 📅 2017-06-01 ★234 - 一站式解决方案客户端示例
-* [wechat-chat](https://github.com/ericzyh/wechat-chat) ⭐ 433 | 🐛 6 | 🌐 JavaScript | 📅 2018-03-28 ★71 - 微信小程序版聊天室
+* [wechat-chat](https://github.com/ericzyh/wechat-chat) ⭐ 432 | 🐛 6 | 🌐 JavaScript | 📅 2018-03-28 ★71 - 微信小程序版聊天室
 * [wechat-app-music](https://github.com/eyasliu/wechat-app-music) ⭐ 410 | 🐛 7 | 🌐 JavaScript | 📅 2016-11-04 ★153 - 微信小程序： 音乐播放器
 * [Artand](https://github.com/SuperKieran/weapp-artand) ⭐ 403 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-14 ★123 - 微信小程序
 * [番茄时钟](https://github.com/kraaas/timer) ⭐ 384 | 🐛 7 | 🌐 JavaScript | 📅 2019-02-18 ★75 - 番茄时钟微信小程序版
 * [weapp-one](https://github.com/ahonn/weapp-one) ⚠️ Archived ★104 - 仿 「ONE · 一个」 的微信小程序
-* [weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive) ⭐ 367 | 🐛 2 | 🌐 Python | 📅 2017-11-30 ★98 - 基于Zhihu Live数据的微信小程序
+* [weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive) ⭐ 368 | 🐛 2 | 🌐 Python | 📅 2017-11-30 ★98 - 基于Zhihu Live数据的微信小程序
 * [wxapp-2048](https://github.com/natee/wxapp-2048) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2019-06-11 ★32 - 微信小程序2048
 * [weapp-douban-film](https://github.com/hingsir/weapp-douban-film) ⭐ 356 | 🐛 4 | 🌐 JavaScript | 📅 2017-01-20 ★112 - 微信小程序 - 豆瓣电影
 * [weapp-demo-breadtrip](https://github.com/romoo/weapp-demo-breadtrip) ⭐ 313 | 🐛 0 | 🌐 JavaScript | 📅 2018-02-27 ★62 - 基于面包旅行 API 制作的微信小程序示例
