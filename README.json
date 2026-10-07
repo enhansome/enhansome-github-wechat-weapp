@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15275,
+            "stars": 15276,
             "topics": [
               "weui",
               "wxss"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22537,
+            "stars": 22538,
             "topics": [
               "weapp",
               "wepy"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:28.154Z",
+    "last_updated": "2026-10-07T00:02:07.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
