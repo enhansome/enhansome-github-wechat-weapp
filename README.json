@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15276,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 30,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5037,
+            "stars": 5036,
             "topics": [
               "bem-css",
               "mini-program",
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2448,
+            "stars": 2447,
             "topics": [
               "calendar",
               "wxapp"
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "TooBug",
             "repo": "wemark",
-            "stars": 1312,
+            "stars": 1311,
             "topics": [
               "markdown",
               "markdown-viewer",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:02:07.328Z",
+    "last_updated": "2026-10-08T00:22:06.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
