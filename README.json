@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4987,
+            "stars": 4988,
             "topics": [
               "canvas",
               "charts",
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2447,
+            "stars": 2448,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22538,
+            "stars": 22536,
             "topics": [
               "weapp",
               "wepy"
@@ -765,7 +765,7 @@
             "open_issues": 19,
             "owner": "weapp-socketio",
             "repo": "wxapp-socket-io",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "socket",
               "weapp-socket"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2977,
+            "stars": 2976,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1296,7 +1296,7 @@
             "open_issues": 10,
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1670,
+            "stars": 1669,
             "topics": [
               "wechat",
               "wxapp"
@@ -1682,7 +1682,7 @@
             "open_issues": 6,
             "owner": "ericzyh",
             "repo": "wechat-chat",
-            "stars": 432,
+            "stars": 431,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1703,7 +1703,7 @@
             "open_issues": 7,
             "owner": "eyasliu",
             "repo": "wechat-app-music",
-            "stars": 410,
+            "stars": 409,
             "topics": [
               "wechat",
               "wechat-app"
@@ -1896,7 +1896,7 @@
             "open_issues": 8,
             "owner": "myronliu347",
             "repo": "wechat-app-zhihudaily",
-            "stars": 300,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2166,7 +2166,7 @@
             "open_issues": 1,
             "owner": "qiantao94",
             "repo": "caipu_weixin",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "weixin-application"
             ]
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:22:06.283Z",
+    "last_updated": "2026-10-09T00:35:42.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
