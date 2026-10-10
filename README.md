@@ -60,7 +60,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 开发工具
 
-* [wept](https://github.com/chemzqm/wept) ⭐ 2,969 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
+* [wept](https://github.com/chemzqm/wept) ⭐ 2,968 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 472 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 ★320 - “微信Web开发者”拷贝工具
 * [Wxapp.vim](https://github.com/chemzqm/wxapp.vim) ⭐ 408 | 🐛 0 | 🌐 Vim script | 📅 2019-06-22 ★213 - 微信小程序开发 Vim 插件
 * [wechat\_web\_devtools](https://github.com/yuan1994/wechat_web_devtools) ⭐ 385 | 🐛 28 | 🌐 HTML | 📅 2017-04-12 ★179 - 微信开发者工具Linux版
@@ -73,7 +73,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [m-mall-admin](https://github.com/skyvow/m-mall-admin) ⚠️ Archived ★137 - 创建REST API的样板应用
 * [NAMI](https://github.com/wodenwang/nami) ⭐ 316 | 🐛 2 | 🌐 Roff | 📅 2017-05-02 ★79 - 专为小程序而生的服务端开发容器
 * [Wafer 服务端 SDK - Java](https://github.com/tencentyun/weapp-java-server-sdk) ⭐ 263 | 🐛 7 | 🌐 Java | 📅 2018-05-28 ★67 - 企业级微信小程序全栈方案
-* [weapp-php-server-sdk](https://github.com/tencentyun/weapp-php-server-sdk) ⭐ 247 | 🐛 6 | 🌐 PHP | 📅 2018-11-22 ★42 - 腾讯云微信小程序云端解决方案
+* [weapp-php-server-sdk](https://github.com/tencentyun/weapp-php-server-sdk) ⭐ 246 | 🐛 6 | 🌐 PHP | 📅 2018-11-22 ★42 - 腾讯云微信小程序云端解决方案
 * [weapp-node-server-demo](https://github.com/tencentyun/weapp-node-server-demo) ⭐ 194 | 🐛 1 | 🌐 JavaScript | 📅 2017-08-29 ★72 - Wafer 服务端 Demo
 * [xpmjs](https://github.com/XpmJS/xpmjs) ⭐ 175 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-28 ★67 - 小程序云端增强 SDK
 
@@ -97,7 +97,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 741 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 ★604 - Gank微信小程序
 * [BearDiary](https://github.com/harveyqing/BearDiary) ⭐ 626 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-10 ★97 - 微信小程序之小熊の日记
 * [weapp-weipiao](https://github.com/wangmingjob/weapp-weipiao) ⭐ 618 | 🐛 11 | 🌐 JavaScript | 📅 2016-09-24 ★234 - 微信小程序-微票
-* [wechat-weapp-mapdemo](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 610 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15 ★152 - 微信小程序开发demo-地图定位
+* [wechat-weapp-mapdemo](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 611 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15 ★152 - 微信小程序开发demo-地图定位
 * [wechat-weapp-taobao](https://github.com/ChangQing666/wechat-weapp-taobao) ⭐ 589 | 🐛 5 | 🌐 JavaScript | 📅 2016-11-06 ★227 - 微信小程序demo 仿手机淘宝
 * [wechat-v2ex](https://github.com/jectychen/wechat-v2ex) ⭐ 568 | 🐛 8 | 🌐 JavaScript | 📅 2020-09-18 ★235 - 简单的v2ex微信小程序
 * [weapp-boilerplate](https://github.com/zce/weapp-boilerplate) ⭐ 566 | 🐛 4 | 🌐 JavaScript | 📅 2020-08-10 ★220 - 一个为微信小程序开发准备的基础骨架

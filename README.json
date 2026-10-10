@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22534,
+            "stars": 22532,
             "topics": [
               "weapp",
               "wepy"
@@ -765,7 +765,7 @@
             "open_issues": 19,
             "owner": "weapp-socketio",
             "repo": "wxapp-socket-io",
-            "stars": 304,
+            "stars": 303,
             "topics": [
               "socket",
               "weapp-socket"
@@ -883,7 +883,7 @@
             "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2969,
+            "stars": 2968,
             "topics": [
               "miniapp",
               "wechat",
@@ -1002,7 +1002,7 @@
             "open_issues": 16,
             "owner": "skyvow",
             "repo": "m-mall-admin",
-            "stars": 943,
+            "stars": 942,
             "topics": [
               "es6",
               "express",
@@ -1076,7 +1076,7 @@
             "open_issues": 6,
             "owner": "tencentyun",
             "repo": "wafer-php-server-sdk",
-            "stars": 247,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "markers",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:17:13.692Z",
+    "last_updated": "2026-10-10T23:47:05.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
