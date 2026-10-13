@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15273,
+            "stars": 15272,
             "topics": [
               "weui",
               "wxss"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7714,
+            "stars": 7713,
             "topics": [
               "html",
               "markdown",
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2066,
+            "stars": 2067,
             "topics": [
               "mina",
               "weapp",
@@ -2100,7 +2100,7 @@
             "open_issues": 1,
             "owner": "hijiangtao",
             "repo": "weapp-newsapp",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:12:56.775Z",
+    "last_updated": "2026-10-13T23:49:53.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9491,
+      "stars": 9493,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
