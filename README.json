@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15272,
+            "stars": 15271,
             "topics": [
               "weui",
               "wxss"
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4988,
+            "stars": 4987,
             "topics": [
               "canvas",
               "charts",
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2448,
+            "stars": 2449,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22530,
+            "stars": 22527,
             "topics": [
               "weapp",
               "wepy"
@@ -580,7 +580,7 @@
             "open_issues": 29,
             "owner": "maichong",
             "repo": "labrador",
-            "stars": 1691,
+            "stars": 1690,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7712,
+            "stars": 7711,
             "topics": [
               "html",
               "markdown",
@@ -681,7 +681,7 @@
             "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
-            "stars": 472,
+            "stars": 471,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1459,
+            "stars": 1458,
             "topics": [
               "javascript",
               "miniapp",
@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 611,
+            "stars": 610,
             "topics": [
               "markers",
               "weapp",
@@ -1661,7 +1661,7 @@
             "open_issues": 7,
             "owner": "tencentyun",
             "repo": "wafer-client-demo",
-            "stars": 509,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2234,7 +2234,7 @@
             "open_issues": 3,
             "owner": "ZhangHangwei",
             "repo": "WXBaiSi",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:23:16.596Z",
+    "last_updated": "2026-10-15T23:13:51.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9492,
+      "stars": 9494,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
