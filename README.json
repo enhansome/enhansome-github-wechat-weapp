@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2449,
+            "stars": 2448,
             "topics": [
               "calendar",
               "wxapp"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2975,
+            "stars": 2976,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2166,7 +2166,7 @@
             "open_issues": 1,
             "owner": "qiantao94",
             "repo": "caipu_weixin",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "weixin-application"
             ]
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:58:55.912Z",
+    "last_updated": "2026-10-17T22:35:58.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9492,
+      "stars": 9494,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
