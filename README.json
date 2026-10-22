@@ -40,7 +40,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-04-25T10:22:39Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
             "stars": 5035,
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4986,
+            "stars": 4985,
             "topics": [
               "canvas",
               "charts",
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2068,
+            "stars": 2067,
             "topics": [
               "mina",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:33:58.468Z",
+    "last_updated": "2026-10-22T23:31:28.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9492,
+      "stars": 9493,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
