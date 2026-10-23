@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15271,
+            "stars": 15269,
             "topics": [
               "weui",
               "wxss"
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2447,
+            "stars": 2448,
             "topics": [
               "calendar",
               "wxapp"
@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "zhongjie-chen",
             "repo": "wx-alphabetical-listview",
-            "stars": 195,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 13,
             "owner": "RebeccaHanjw",
             "repo": "weapp-wechat-zhihu",
-            "stars": 2013,
+            "stars": 2014,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1372,7 +1372,7 @@
             "open_issues": 3,
             "owner": "xiehui999",
             "repo": "SmallAppForQQ",
-            "stars": 1073,
+            "stars": 1074,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1435,7 +1435,7 @@
             "open_issues": 4,
             "owner": "harveyqing",
             "repo": "BearDiary",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "weapp",
               "weapp-demo"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:31:28.976Z",
+    "last_updated": "2026-10-23T23:24:50.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
