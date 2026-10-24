@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15269,
+            "stars": 15268,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5035,
+            "stars": 5036,
             "topics": [
               "bem-css",
               "mini-program",
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "TooBug",
             "repo": "wemark",
-            "stars": 1311,
+            "stars": 1312,
             "topics": [
               "markdown",
               "markdown-viewer",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22520,
+            "stars": 22518,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7712,
+            "stars": 7711,
             "topics": [
               "html",
               "markdown",
@@ -723,7 +723,7 @@
             "open_issues": 3,
             "owner": "rchunping",
             "repo": "wxapp-google-analytics",
-            "stars": 362,
+            "stars": 363,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2976,
+            "stars": 2977,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1869,7 +1869,7 @@
             "open_issues": 0,
             "owner": "romoo",
             "repo": "weapp-demo-breadtrip",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "breadtrip",
               "mini-program",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:24:50.432Z",
+    "last_updated": "2026-10-24T22:41:28.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
