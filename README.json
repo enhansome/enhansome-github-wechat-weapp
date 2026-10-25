@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15268,
+            "stars": 15269,
             "topics": [
               "weui",
               "wxss"
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2448,
+            "stars": 2447,
             "topics": [
               "calendar",
               "wxapp"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7711,
+            "stars": 7712,
             "topics": [
               "html",
               "markdown",
@@ -681,7 +681,7 @@
             "open_issues": 12,
             "owner": "baidumapapi",
             "repo": "wxapp-jsapi",
-            "stars": 471,
+            "stars": 470,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2977,
+            "stars": 2976,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2067,
+            "stars": 2068,
             "topics": [
               "mina",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:41:28.691Z",
+    "last_updated": "2026-10-25T22:45:52.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9493,
+      "stars": 9496,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
