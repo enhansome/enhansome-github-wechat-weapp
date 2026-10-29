@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4985,
+            "stars": 4984,
             "topics": [
               "canvas",
               "charts",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22516,
+            "stars": 22515,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7711,
+            "stars": 7712,
             "topics": [
               "html",
               "markdown",
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1457,
+            "stars": 1458,
             "topics": [
               "javascript",
               "miniapp",
@@ -1372,7 +1372,7 @@
             "open_issues": 3,
             "owner": "xiehui999",
             "repo": "SmallAppForQQ",
-            "stars": 1074,
+            "stars": 1075,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1393,7 +1393,7 @@
             "open_issues": 4,
             "owner": "alanwangmodify",
             "repo": "weChatApp-Run",
-            "stars": 893,
+            "stars": 892,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2166,7 +2166,7 @@
             "open_issues": 1,
             "owner": "qiantao94",
             "repo": "caipu_weixin",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "weixin-application"
             ]
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:56:39.509Z",
+    "last_updated": "2026-10-29T00:19:01.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9498,
+      "stars": 9499,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
