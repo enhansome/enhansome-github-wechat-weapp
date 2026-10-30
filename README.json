@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22515,
+            "stars": 22516,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7712,
+            "stars": 7711,
             "topics": [
               "html",
               "markdown",
@@ -723,7 +723,7 @@
             "open_issues": 3,
             "owner": "rchunping",
             "repo": "wxapp-google-analytics",
-            "stars": 363,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1227,7 +1227,7 @@
             "open_issues": 18,
             "owner": "liuxuanqiang",
             "repo": "wechat-weapp-mall",
-            "stars": 2975,
+            "stars": 2976,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1296,7 +1296,7 @@
             "open_issues": 10,
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1667,
+            "stars": 1668,
             "topics": [
               "wechat",
               "wxapp"
@@ -1869,7 +1869,7 @@
             "open_issues": 0,
             "owner": "romoo",
             "repo": "weapp-demo-breadtrip",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "breadtrip",
               "mini-program",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:19:01.689Z",
+    "last_updated": "2026-10-30T00:12:59.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9499,
+      "stars": 9500,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
