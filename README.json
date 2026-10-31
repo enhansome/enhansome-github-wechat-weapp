@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7711,
+            "stars": 7710,
             "topics": [
               "html",
               "markdown",
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1458,
+            "stars": 1459,
             "topics": [
               "javascript",
               "miniapp",
@@ -1968,7 +1968,7 @@
             "open_issues": 1,
             "owner": "litt1e-p",
             "repo": "weapp-girls",
-            "stars": 248,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:12:59.711Z",
+    "last_updated": "2026-10-31T00:00:06.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
