@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5035,
+            "stars": 5034,
             "topics": [
               "bem-css",
               "mini-program",
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4984,
+            "stars": 4983,
             "topics": [
               "canvas",
               "charts",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22516,
+            "stars": 22515,
             "topics": [
               "weapp",
               "wepy"
@@ -1320,7 +1320,7 @@
             "open_issues": 6,
             "owner": "skyvow",
             "repo": "m-mall",
-            "stars": 1551,
+            "stars": 1550,
             "topics": [
               "promise-api",
               "promise-wx",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:00:06.508Z",
+    "last_updated": "2026-10-31T23:38:06.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
