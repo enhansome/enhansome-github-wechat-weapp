@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15270,
+            "stars": 15271,
             "topics": [
               "weui",
               "wxss"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22515,
+            "stars": 22516,
             "topics": [
               "weapp",
               "wepy"
@@ -1727,7 +1727,7 @@
             "open_issues": 5,
             "owner": "SuperKieran",
             "repo": "weapp-artand",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2002,27 +2002,6 @@
         },
         {
           "node_type": "item",
-          "title": "fenda-mock",
-          "description": "★153 - 使用微信小程序实现分答这款APP的基础功能",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "使用微信小程序实现「分答」这款APP的基础功能",
-            "homepage": null,
-            "id": 70406561,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2018-05-31T06:26:42Z",
-            "open_issues": 2,
-            "owner": "davedavehong",
-            "repo": "fenda-mock",
-            "stars": 221,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "wxflex",
           "description": "★75 - 微信小程序的Flex布局demo",
           "children": [],
@@ -2038,6 +2017,27 @@
             "owner": "icindy",
             "repo": "wxflex",
             "stars": 221,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fenda-mock",
+          "description": "★153 - 使用微信小程序实现分答这款APP的基础功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "使用微信小程序实现「分答」这款APP的基础功能",
+            "homepage": null,
+            "id": 70406561,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2018-05-31T06:26:42Z",
+            "open_issues": 2,
+            "owner": "davedavehong",
+            "repo": "fenda-mock",
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:38:06.628Z",
+    "last_updated": "2026-11-01T23:49:59.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9500,
+      "stars": 9501,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
