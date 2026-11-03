@@ -23,7 +23,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [WeZRender](https://github.com/guyoung/WeZRender) ⭐ 567 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 ★96 - 微信小程序Canvas增强组件
 * [wxapp](https://github.com/youzouzou/wxapp) ⭐ 548 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-14 ★131 - 微信小程序组件
 * [zanui-weapp](https://github.com/youzan/zanui-weapp) ⚠️ Archived ★794 - 好用易扩展的小程序 UI 库
-* [wxSearch](https://github.com/icindy/wxSearch) ⭐ 531 | 🐛 9 | 🌐 JavaScript | 📅 2018-12-16 ★70 - 微信小程序优雅的搜索框
+* [wxSearch](https://github.com/icindy/wxSearch) ⭐ 530 | 🐛 9 | 🌐 JavaScript | 📅 2018-12-16 ★70 - 微信小程序优雅的搜索框
 * [wx-scrollable-tab-view](https://github.com/zhongjie-chen/wx-scrollable-tab-view) ⭐ 440 | 🐛 6 | 🌐 JavaScript | 📅 2017-03-21 ★116 - 小程序可滑动得tabview
 * [Wa-UI](https://github.com/liujians/Wa-UI) ⭐ 311 | 🐛 1 | 🌐 JavaScript | 📅 2018-03-13 ★164 - 针对微信小程序整合的一套UI库
 * [wetoast](https://github.com/kiinlam/wetoast) ⚠️ Archived ★77 - 仿照微信小程序提供的showToast功能
@@ -46,7 +46,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 实用库
 
-* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,710 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
+* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,709 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
 * [wechat-weapp-redux](https://github.com/charleyw/wechat-weapp-redux) ⭐ 478 | 🐛 14 | 🌐 JavaScript | 📅 2018-07-10 ★189 - 微信小程序Redux绑定
 * [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-23 ★49 - 百度地图微信小程序
 * [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter) ⭐ 420 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-13 ★86 - 微信小程序通知广播模式类
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
