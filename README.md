@@ -19,7 +19,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,983 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
 * [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,447 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
 * [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
-* [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,098 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
+* [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,097 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
 * [WeZRender](https://github.com/guyoung/WeZRender) ⭐ 567 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 ★96 - 微信小程序Canvas增强组件
 * [wxapp](https://github.com/youzouzou/wxapp) ⭐ 548 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-14 ★131 - 微信小程序组件
 * [zanui-weapp](https://github.com/youzan/zanui-weapp) ⚠️ Archived ★794 - 好用易扩展的小程序 UI 库
@@ -60,7 +60,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 开发工具
 
-* [wept](https://github.com/chemzqm/wept) ⭐ 2,969 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
+* [wept](https://github.com/chemzqm/wept) ⭐ 2,968 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 472 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 ★320 - “微信Web开发者”拷贝工具
 * [Wxapp.vim](https://github.com/chemzqm/wxapp.vim) ⭐ 408 | 🐛 0 | 🌐 Vim script | 📅 2019-06-22 ★213 - 微信小程序开发 Vim 插件
 * [wechat\_web\_devtools](https://github.com/yuan1994/wechat_web_devtools) ⭐ 385 | 🐛 28 | 🌐 HTML | 📅 2017-04-12 ★179 - 微信开发者工具Linux版
@@ -79,7 +79,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 项目实例
 
-* [miemie](https://github.com/airingursb/miemie) ⭐ 489 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
+* [miemie](https://github.com/airingursb/miemie) ⭐ 488 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
 * [hellspawn-hunter-weapp](https://github.com/bluedazzle/hellspawn-hunter-weapp) ⭐ 78 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-05 ★25 - 阴阳师妖怪搜索小程序
 * [wecqupt](https://github.com/lanshan-studio/wecqupt) ⭐ 0 | 🐛 0 | 📅 2023-03-28 ★255 - 在微信内被便捷地获取和传播
 * [豆瓣电影项目](https://github.com/songhaoreact/豆瓣电影项目) ★118 - 微信小程序豆瓣电影项目
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
