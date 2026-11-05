@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15271,
+            "stars": 15270,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5034,
+            "stars": 5033,
             "topics": [
               "bem-css",
               "mini-program",
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4983,
+            "stars": 4982,
             "topics": [
               "canvas",
               "charts",
@@ -424,7 +424,7 @@
             "open_issues": 3,
             "owner": "lidong1665",
             "repo": "WeiXinProject",
-            "stars": 169,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -580,7 +580,7 @@
             "open_issues": 29,
             "owner": "maichong",
             "repo": "labrador",
-            "stars": 1690,
+            "stars": 1691,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7709,
+            "stars": 7708,
             "topics": [
               "html",
               "markdown",
@@ -1002,7 +1002,7 @@
             "open_issues": 16,
             "owner": "skyvow",
             "repo": "m-mall-admin",
-            "stars": 942,
+            "stars": 941,
             "topics": [
               "es6",
               "express",
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1459,
+            "stars": 1458,
             "topics": [
               "javascript",
               "miniapp",
@@ -1682,7 +1682,7 @@
             "open_issues": 6,
             "owner": "ericzyh",
             "repo": "wechat-chat",
-            "stars": 431,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2303,7 +2303,7 @@
             "open_issues": 1,
             "owner": "zhengxiaowai",
             "repo": "weapp-github",
-            "stars": 124,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:49:58.332Z",
+    "last_updated": "2026-11-05T01:00:35.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
