@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "bem-css",
               "mini-program",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:15:34.366Z",
+    "last_updated": "2026-11-07T23:52:46.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9500,
+      "stars": 9501,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
