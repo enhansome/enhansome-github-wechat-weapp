@@ -14,12 +14,12 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## UI组件
 
-* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,270 | 🐛 65 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
-* [wux](https://github.com/skyvow/wux) ⭐ 5,032 | 🐛 29 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
-* [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,982 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
+* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,268 | 🐛 64 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
+* [wux](https://github.com/skyvow/wux) ⭐ 5,031 | 🐛 29 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
+* [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,981 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
 * [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,447 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
 * [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
-* [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,097 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
+* [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,096 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
 * [WeZRender](https://github.com/guyoung/WeZRender) ⭐ 567 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 ★96 - 微信小程序Canvas增强组件
 * [wxapp](https://github.com/youzouzou/wxapp) ⭐ 548 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-14 ★131 - 微信小程序组件
 * [zanui-weapp](https://github.com/youzan/zanui-weapp) ⚠️ Archived ★794 - 好用易扩展的小程序 UI 库
@@ -41,12 +41,12 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 ## 开发框架
 
 * [wepy](https://github.com/wepyjs/wepy) ⚠️ Archived ★1325 - 小程序组件化开发框架
-* [Labrador](https://github.com/maichong/labrador) ⭐ 1,691 | 🐛 29 | 🌐 JavaScript | 📅 2017-10-10 ★785 - 微信小程序模块化开发框架
+* [Labrador](https://github.com/maichong/labrador) ⭐ 1,690 | 🐛 29 | 🌐 JavaScript | 📅 2017-10-10 ★785 - 微信小程序模块化开发框架
 * [wxapp-devFrame](https://github.com/hss01248/wxapp-devFrame) ⭐ 156 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-09 ★49 - 小程序基本的开发框架
 
 ## 实用库
 
-* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,707 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
+* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,706 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
 * [wechat-weapp-redux](https://github.com/charleyw/wechat-weapp-redux) ⭐ 478 | 🐛 14 | 🌐 JavaScript | 📅 2018-07-10 ★189 - 微信小程序Redux绑定
 * [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-23 ★49 - 百度地图微信小程序
 * [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter) ⭐ 420 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-13 ★86 - 微信小程序通知广播模式类
@@ -55,16 +55,16 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wxapp-socket-io](https://github.com/fanweixiao/wxapp-socket-io) ⚠️ Archived ★123 - 微信小程序的SocketIO客户端
 * [wx-query](https://github.com/stephenml/wx-query) ⚠️ Archived ★62 - 微信小程序仿jQuery插件
 * [wilddog-weapp](https://github.com/WildDogTeam/wilddog-weapp) ⭐ 92 | 🐛 7 | 📅 2017-10-25 ★67 - 野狗微信小程序客户SDK
-* [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ⭐ 66 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 ★16 - 又拍云微信小程序
+* [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ⭐ 65 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 ★16 - 又拍云微信小程序
 * [wxstream](https://github.com/wpcfan/wxstream) ⭐ 48 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-30 ★19 - 微信小程序的响应式编程类库封装
 
 ## 开发工具
 
-* [wept](https://github.com/chemzqm/wept) ⭐ 2,968 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
+* [wept](https://github.com/chemzqm/wept) ⭐ 2,966 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 472 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 ★320 - “微信Web开发者”拷贝工具
 * [Wxapp.vim](https://github.com/chemzqm/wxapp.vim) ⭐ 408 | 🐛 0 | 🌐 Vim script | 📅 2019-06-22 ★213 - 微信小程序开发 Vim 插件
 * [wechat\_web\_devtools](https://github.com/yuan1994/wechat_web_devtools) ⭐ 385 | 🐛 28 | 🌐 HTML | 📅 2017-04-12 ★179 - 微信开发者工具Linux版
-* [Matchmaker](https://github.com/lypeer/Matchmaker) ⭐ 228 | 🐛 7 | 🌐 Java | 📅 2020-11-22 ★107 - 专为微信小程序开发的插件
+* [Matchmaker](https://github.com/lypeer/Matchmaker) ⭐ 227 | 🐛 7 | 🌐 Java | 📅 2020-11-22 ★107 - 专为微信小程序开发的插件
 * [miniapps](https://github.com/DDFE/miniapps) ★131 - 小程序项目脚手架工具
 * [wecos](https://github.com/tencentyun/wecos) ★64 - 微信小程序 COS 瘦身解决方案
 
@@ -72,14 +72,14 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 * [m-mall-admin](https://github.com/skyvow/m-mall-admin) ⚠️ Archived ★137 - 创建REST API的样板应用
 * [NAMI](https://github.com/wodenwang/nami) ⭐ 316 | 🐛 2 | 🌐 Roff | 📅 2017-05-02 ★79 - 专为小程序而生的服务端开发容器
-* [Wafer 服务端 SDK - Java](https://github.com/tencentyun/weapp-java-server-sdk) ⭐ 263 | 🐛 7 | 🌐 Java | 📅 2018-05-28 ★67 - 企业级微信小程序全栈方案
+* [Wafer 服务端 SDK - Java](https://github.com/tencentyun/weapp-java-server-sdk) ⭐ 262 | 🐛 7 | 🌐 Java | 📅 2018-05-28 ★67 - 企业级微信小程序全栈方案
 * [weapp-php-server-sdk](https://github.com/tencentyun/weapp-php-server-sdk) ⭐ 246 | 🐛 6 | 🌐 PHP | 📅 2018-11-22 ★42 - 腾讯云微信小程序云端解决方案
 * [weapp-node-server-demo](https://github.com/tencentyun/weapp-node-server-demo) ⭐ 194 | 🐛 1 | 🌐 JavaScript | 📅 2017-08-29 ★72 - Wafer 服务端 Demo
 * [xpmjs](https://github.com/XpmJS/xpmjs) ⭐ 175 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-28 ★67 - 小程序云端增强 SDK
 
 ## 项目实例
 
-* [miemie](https://github.com/airingursb/miemie) ⭐ 488 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
+* [miemie](https://github.com/airingursb/miemie) ⭐ 487 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
 * [hellspawn-hunter-weapp](https://github.com/bluedazzle/hellspawn-hunter-weapp) ⭐ 78 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-05 ★25 - 阴阳师妖怪搜索小程序
 * [wecqupt](https://github.com/lanshan-studio/wecqupt) ⭐ 0 | 🐛 0 | 📅 2023-03-28 ★255 - 在微信内被便捷地获取和传播
 * [豆瓣电影项目](https://github.com/songhaoreact/豆瓣电影项目) ★118 - 微信小程序豆瓣电影项目
@@ -87,14 +87,14 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 ## Demo
 
 * [wechat-weapp-mall](https://github.com/liuxuanqiang/wechat-weapp-mall) ⭐ 2,976 | 🐛 18 | 🌐 JavaScript | 📅 2017-10-13 ★750 - 微信小程序移动端商城
-* [wechat-weapp-movie](https://github.com/yesifeng/wechat-weapp-movie) ⭐ 2,068 | 🐛 70 | 🌐 JavaScript | 📅 2023-12-28 ★182 - 微信小程序 - 电影推荐
-* [weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) ⭐ 2,015 | 🐛 13 | 🌐 JavaScript | 📅 2022-10-27 ★518 - 微信中的知乎
+* [wechat-weapp-movie](https://github.com/yesifeng/wechat-weapp-movie) ⭐ 2,069 | 🐛 70 | 🌐 JavaScript | 📅 2023-12-28 ★182 - 微信小程序 - 电影推荐
+* [weapp-wechat-zhihu](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) ⭐ 2,013 | 🐛 13 | 🌐 JavaScript | 📅 2022-10-27 ★518 - 微信中的知乎
 * [wxapp-mall](https://github.com/lin-xin/wxapp-mall) ⭐ 1,668 | 🐛 10 | 🌐 JavaScript | 📅 2019-10-22 ★22 - 微信小程序商城demo
 * [m-mall](https://github.com/skyvow/m-mall) ⚠️ Archived ★328 - 实现一个移动端小商城
-* [netmusic-app](https://github.com/sqaiyan/netmusic-app) ⭐ 1,458 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-10 ★95 - 仿网易云音乐APP的微信小程序
+* [netmusic-app](https://github.com/sqaiyan/netmusic-app) ⭐ 1,457 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-10 ★95 - 仿网易云音乐APP的微信小程序
 * [SmallAppForQQ](https://github.com/xiehui999/SmallAppForQQ) ⭐ 1,075 | 🐛 3 | 🌐 JavaScript | 📅 2017-07-11 ★561 - 微信小程序高仿QQ应用
 * [weChatApp-Run](https://github.com/alanwangmodify/weChatApp-Run) ⭐ 892 | 🐛 4 | 🌐 JavaScript | 📅 2016-11-14 ★265 - 跑步微信小程序Demo
-* [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 741 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 ★604 - Gank微信小程序
+* [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) ⭐ 740 | 🐛 7 | 🌐 JavaScript | 📅 2016-10-28 ★604 - Gank微信小程序
 * [BearDiary](https://github.com/harveyqing/BearDiary) ⭐ 625 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-10 ★97 - 微信小程序之小熊の日记
 * [weapp-weipiao](https://github.com/wangmingjob/weapp-weipiao) ⭐ 618 | 🐛 11 | 🌐 JavaScript | 📅 2016-09-24 ★234 - 微信小程序-微票
 * [wechat-weapp-mapdemo](https://github.com/giscafer/wechat-weapp-mapdemo) ⭐ 610 | 🐛 5 | 🌐 JavaScript | 📅 2021-08-15 ★152 - 微信小程序开发demo-地图定位
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
