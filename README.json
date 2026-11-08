@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2447,
+            "stars": 2446,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22507,
+            "stars": 22508,
             "topics": [
               "weapp",
               "wepy"
@@ -1748,7 +1748,7 @@
             "open_issues": 7,
             "owner": "ououpao",
             "repo": "timer",
-            "stars": 384,
+            "stars": 383,
             "topics": [
               "wxapp"
             ]
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:52:46.428Z",
+    "last_updated": "2026-11-08T23:57:30.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",

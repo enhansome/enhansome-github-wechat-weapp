@@ -17,7 +17,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,268 | 🐛 64 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
 * [wux](https://github.com/skyvow/wux) ⭐ 5,032 | 🐛 29 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
 * [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,981 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
-* [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,447 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
+* [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,446 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
 * [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
 * [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,096 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
 * [WeZRender](https://github.com/guyoung/WeZRender) ⭐ 567 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 ★96 - 微信小程序Canvas增强组件
@@ -109,7 +109,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wechat-chat](https://github.com/ericzyh/wechat-chat) ⭐ 430 | 🐛 6 | 🌐 JavaScript | 📅 2018-03-28 ★71 - 微信小程序版聊天室
 * [wechat-app-music](https://github.com/eyasliu/wechat-app-music) ⭐ 408 | 🐛 7 | 🌐 JavaScript | 📅 2016-11-04 ★153 - 微信小程序： 音乐播放器
 * [Artand](https://github.com/SuperKieran/weapp-artand) ⭐ 404 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-14 ★123 - 微信小程序
-* [番茄时钟](https://github.com/kraaas/timer) ⭐ 384 | 🐛 7 | 🌐 JavaScript | 📅 2019-02-18 ★75 - 番茄时钟微信小程序版
+* [番茄时钟](https://github.com/kraaas/timer) ⭐ 383 | 🐛 7 | 🌐 JavaScript | 📅 2019-02-18 ★75 - 番茄时钟微信小程序版
 * [weapp-one](https://github.com/ahonn/weapp-one) ⚠️ Archived ★104 - 仿 「ONE · 一个」 的微信小程序
 * [weapp-zhihulive](https://github.com/dongweiming/weapp-zhihulive) ⭐ 368 | 🐛 2 | 🌐 Python | 📅 2017-11-30 ★98 - 基于Zhihu Live数据的微信小程序
 * [wxapp-2048](https://github.com/natee/wxapp-2048) ⭐ 365 | 🐛 2 | 🌐 JavaScript | 📅 2019-06-11 ★32 - 微信小程序2048
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
