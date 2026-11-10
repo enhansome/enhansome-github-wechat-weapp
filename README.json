@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4981,
+            "stars": 4980,
             "topics": [
               "canvas",
               "charts",
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2446,
+            "stars": 2445,
             "topics": [
               "calendar",
               "wxapp"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22508,
+            "stars": 22505,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7706,
+            "stars": 7703,
             "topics": [
               "html",
               "markdown",
@@ -1150,7 +1150,7 @@
             "open_issues": 4,
             "owner": "airingursb",
             "repo": "miemie",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "es6",
               "mini-program",
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2069,
+            "stars": 2070,
             "topics": [
               "mina",
               "weapp",
@@ -1605,27 +1605,6 @@
         },
         {
           "node_type": "item",
-          "title": "仿芒果TV",
-          "description": "★326 - 微信小程序demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "微信小应用-小程序-demo-仿芒果TV",
-            "homepage": null,
-            "id": 70480883,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2018-09-25T09:36:03Z",
-            "open_issues": 3,
-            "owner": "web-Marker",
-            "repo": "wechat-Development",
-            "stars": 526,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "wechatapp-news-reader",
           "description": "★59 - 新闻阅读器",
           "children": [],
@@ -1641,6 +1620,27 @@
             "owner": "vace",
             "repo": "wechatapp-news-reader",
             "stars": 526,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "仿芒果TV",
+          "description": "★326 - 微信小程序demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "微信小应用-小程序-demo-仿芒果TV",
+            "homepage": null,
+            "id": 70480883,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2018-09-25T09:36:03Z",
+            "open_issues": 3,
+            "owner": "web-Marker",
+            "repo": "wechat-Development",
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:57:30.886Z",
+    "last_updated": "2026-11-10T02:52:59.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
