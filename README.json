@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7703,
+            "stars": 7701,
             "topics": [
               "html",
               "markdown",
@@ -835,7 +835,7 @@
             "open_issues": 3,
             "owner": "upyun",
             "repo": "wechat-sdk",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -883,7 +883,7 @@
             "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2966,
+            "stars": 2967,
             "topics": [
               "miniapp",
               "wechat",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:25:42.416Z",
+    "last_updated": "2026-11-14T00:59:27.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",

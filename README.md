@@ -46,7 +46,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 实用库
 
-* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,703 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
+* [wxParse](https://github.com/icindy/wxParse) ⭐ 7,701 | 🐛 217 | 🌐 JavaScript | 📅 2020-03-19 ★1107 - 微信小程序富文本解析自定义组件
 * [wechat-weapp-redux](https://github.com/charleyw/wechat-weapp-redux) ⭐ 478 | 🐛 14 | 🌐 JavaScript | 📅 2018-07-10 ★189 - 微信小程序Redux绑定
 * [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-23 ★49 - 百度地图微信小程序
 * [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter) ⭐ 420 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-13 ★86 - 微信小程序通知广播模式类
@@ -55,12 +55,12 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wxapp-socket-io](https://github.com/fanweixiao/wxapp-socket-io) ⚠️ Archived ★123 - 微信小程序的SocketIO客户端
 * [wx-query](https://github.com/stephenml/wx-query) ⚠️ Archived ★62 - 微信小程序仿jQuery插件
 * [wilddog-weapp](https://github.com/WildDogTeam/wilddog-weapp) ⭐ 92 | 🐛 7 | 📅 2017-10-25 ★67 - 野狗微信小程序客户SDK
-* [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ⭐ 65 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 ★16 - 又拍云微信小程序
+* [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ⭐ 64 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-20 ★16 - 又拍云微信小程序
 * [wxstream](https://github.com/wpcfan/wxstream) ⭐ 48 | 🐛 1 | 🌐 JavaScript | 📅 2020-09-30 ★19 - 微信小程序的响应式编程类库封装
 
 ## 开发工具
 
-* [wept](https://github.com/chemzqm/wept) ⭐ 2,966 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
+* [wept](https://github.com/chemzqm/wept) ⭐ 2,967 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 ★1097 - 实时微信小程序开发工具
 * [weapp-quick](https://github.com/phodal/weapp-quick) ⭐ 471 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-27 ★320 - “微信Web开发者”拷贝工具
 * [Wxapp.vim](https://github.com/chemzqm/wxapp.vim) ⭐ 408 | 🐛 0 | 🌐 Vim script | 📅 2019-06-22 ★213 - 微信小程序开发 Vim 插件
 * [wechat\_web\_devtools](https://github.com/yuan1994/wechat_web_devtools) ⭐ 385 | 🐛 28 | 🌐 HTML | 📅 2017-04-12 ★179 - 微信开发者工具Linux版
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
