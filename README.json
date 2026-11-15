@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15270,
+            "stars": 15272,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5032,
+            "stars": 5031,
             "topics": [
               "bem-css",
               "mini-program",
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "TooBug",
             "repo": "wemark",
-            "stars": 1312,
+            "stars": 1313,
             "topics": [
               "markdown",
               "markdown-viewer",
@@ -183,7 +183,7 @@
             "open_issues": 11,
             "owner": "guyoung",
             "repo": "streakjs",
-            "stars": 568,
+            "stars": 567,
             "topics": [
               "canvas",
               "javascript"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22503,
+            "stars": 22502,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7701,
+            "stars": 7702,
             "topics": [
               "html",
               "markdown",
@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 610,
+            "stars": 609,
             "topics": [
               "markers",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:59:27.606Z",
+    "last_updated": "2026-11-15T00:10:29.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
