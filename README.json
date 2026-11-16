@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15272,
+            "stars": 15274,
             "topics": [
               "weui",
               "wxss"
@@ -78,7 +78,7 @@
             "open_issues": 286,
             "owner": "xiaolin3303",
             "repo": "wx-charts",
-            "stars": 4979,
+            "stars": 4980,
             "topics": [
               "canvas",
               "charts",
@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2445,
+            "stars": 2446,
             "topics": [
               "calendar",
               "wxapp"
@@ -158,7 +158,7 @@
             "open_issues": 4,
             "owner": "o2team",
             "repo": "wxapp-img-loader",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "wechat",
               "wechat-app",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22502,
+            "stars": 22501,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7702,
+            "stars": 7701,
             "topics": [
               "html",
               "markdown",
@@ -1296,7 +1296,7 @@
             "open_issues": 10,
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "wechat",
               "wxapp"
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:10:29.209Z",
+    "last_updated": "2026-11-16T00:18:17.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
