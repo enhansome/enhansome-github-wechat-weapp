@@ -51,7 +51,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ⭐ 470 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-23 ★49 - 百度地图微信小程序
 * [WxNotificationCenter](https://github.com/icindy/WxNotificationCenter) ⭐ 420 | 🐛 4 | 🌐 JavaScript | 📅 2018-10-13 ★86 - 微信小程序通知广播模式类
 * [wxapp-google-analytics](https://github.com/rchunping/wxapp-google-analytics) ⭐ 362 | 🐛 3 | 🌐 JavaScript | 📅 2020-09-30 ★59 - 让微信小程序支持谷歌统计
-* [wafer-client-sdk](https://github.com/tencentyun/weapp-client-sdk) ⭐ 338 | 🐛 7 | 🌐 JavaScript | 📅 2018-05-28 ★94 - 微信小程序客户端腾讯云增强 SDK
+* [wafer-client-sdk](https://github.com/tencentyun/weapp-client-sdk) ⭐ 339 | 🐛 7 | 🌐 JavaScript | 📅 2018-05-28 ★94 - 微信小程序客户端腾讯云增强 SDK
 * [wxapp-socket-io](https://github.com/fanweixiao/wxapp-socket-io) ⚠️ Archived ★123 - 微信小程序的SocketIO客户端
 * [wx-query](https://github.com/stephenml/wx-query) ⚠️ Archived ★62 - 微信小程序仿jQuery插件
 * [wilddog-weapp](https://github.com/WildDogTeam/wilddog-weapp) ⭐ 92 | 🐛 7 | 📅 2017-10-25 ★67 - 野狗微信小程序客户SDK
@@ -105,7 +105,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 * [wechat\_mall\_applet](https://github.com/bayetech/wechat_mall_applet) ⚠️ Archived ★201 - 巴爷微信商城的简单版本
 * [wechatapp-news-reader](https://github.com/vace/wechatapp-news-reader) ⭐ 526 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-26 ★59 - 新闻阅读器
 * [仿芒果TV](https://github.com/web-Marker/wechat-Development) ⭐ 525 | 🐛 3 | 🌐 JavaScript | 📅 2018-09-25 ★326 - 微信小程序demo
-* [腾讯云微信小程序](https://github.com/tencentyun/weapp-client-demo) ⭐ 508 | 🐛 7 | 🌐 JavaScript | 📅 2017-06-01 ★234 - 一站式解决方案客户端示例
+* [腾讯云微信小程序](https://github.com/tencentyun/weapp-client-demo) ⭐ 509 | 🐛 7 | 🌐 JavaScript | 📅 2017-06-01 ★234 - 一站式解决方案客户端示例
 * [wechat-chat](https://github.com/ericzyh/wechat-chat) ⭐ 430 | 🐛 6 | 🌐 JavaScript | 📅 2018-03-28 ★71 - 微信小程序版聊天室
 * [wechat-app-music](https://github.com/eyasliu/wechat-app-music) ⭐ 408 | 🐛 7 | 🌐 JavaScript | 📅 2016-11-04 ★153 - 微信小程序： 音乐播放器
 * [Artand](https://github.com/SuperKieran/weapp-artand) ⭐ 404 | 🐛 5 | 🌐 JavaScript | 📅 2017-04-14 ★123 - 微信小程序
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
