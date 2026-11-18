@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15274,
+            "stars": 15275,
             "topics": [
               "weui",
               "wxss"
@@ -254,7 +254,7 @@
             "open_issues": 9,
             "owner": "icindy",
             "repo": "wxSearch",
-            "stars": 530,
+            "stars": 529,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -908,7 +908,7 @@
             "open_issues": 0,
             "owner": "phodal",
             "repo": "weapp-quick",
-            "stars": 471,
+            "stars": 472,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 6,
             "owner": "tencentyun",
             "repo": "wafer-php-server-sdk",
-            "stars": 246,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "javascript",
               "miniapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:05:38.781Z",
+    "last_updated": "2026-11-18T02:33:32.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9506,
+      "stars": 9509,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
