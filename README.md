@@ -14,11 +14,11 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## UI组件
 
-* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,276 | 🐛 64 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
+* [weui-wxss](https://github.com/weui/weui-wxss) ⭐ 15,277 | 🐛 64 | 🌐 Less | 📅 2026-03-12 ★1873 - 同微信原生视觉体验一致的基础样式库
 * [wux](https://github.com/skyvow/wux) ⭐ 5,031 | 🐛 29 | 🌐 JavaScript | 📅 2024-04-25 ★163 - 微信小程序自定义组件
 * [wx-charts](https://github.com/xiaolin3303/wx-charts) ⭐ 4,979 | 🐛 286 | 🌐 JavaScript | 📅 2023-10-14 ★449 - 微信小程序图表工具
 * [wx\_calendar](https://github.com/treadpit/wx_calendar) ⭐ 2,447 | 🐛 50 | 🌐 JavaScript | 📅 2023-02-04 ★65 - 小程序日历
-* [wemark](https://github.com/TooBug/wemark) ⭐ 1,313 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
+* [wemark](https://github.com/TooBug/wemark) ⭐ 1,312 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-05 ★161 - 微信小程序Markdown渲染库
 * [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader) ⭐ 1,097 | 🐛 4 | 🌐 JavaScript | 📅 2020-07-27 ★101 - 微信小程序的图片预加载组件
 * [WeZRender](https://github.com/guyoung/WeZRender) ⭐ 566 | 🐛 11 | 🌐 JavaScript | 📅 2023-11-02 ★96 - 微信小程序Canvas增强组件
 * [wxapp](https://github.com/youzouzou/wxapp) ⭐ 548 | 🐛 1 | 🌐 JavaScript | 📅 2020-02-14 ★131 - 微信小程序组件
@@ -79,7 +79,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ## 项目实例
 
-* [miemie](https://github.com/airingursb/miemie) ⭐ 489 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
+* [miemie](https://github.com/airingursb/miemie) ⭐ 490 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-15 ★28 - 微信小程序咩咩单词
 * [hellspawn-hunter-weapp](https://github.com/bluedazzle/hellspawn-hunter-weapp) ⭐ 77 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-05 ★25 - 阴阳师妖怪搜索小程序
 * [wecqupt](https://github.com/lanshan-studio/wecqupt) ⭐ 0 | 🐛 0 | 📅 2023-03-28 ★255 - 在微信内被便捷地获取和传播
 * [豆瓣电影项目](https://github.com/songhaoreact/豆瓣电影项目) ★118 - 微信小程序豆瓣电影项目
@@ -166,4 +166,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15276,
+            "stars": 15277,
             "topics": [
               "weui",
               "wxss"
@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "TooBug",
             "repo": "wemark",
-            "stars": 1313,
+            "stars": 1312,
             "topics": [
               "markdown",
               "markdown-viewer",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22502,
+            "stars": 22501,
             "topics": [
               "weapp",
               "wepy"
@@ -1150,7 +1150,7 @@
             "open_issues": 4,
             "owner": "airingursb",
             "repo": "miemie",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "es6",
               "mini-program",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:41:41.443Z",
+    "last_updated": "2026-11-22T00:36:55.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9510,
+      "stars": 9511,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
