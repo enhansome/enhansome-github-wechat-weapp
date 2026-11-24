@@ -104,7 +104,7 @@
             "open_issues": 50,
             "owner": "treadpit",
             "repo": "wx_calendar",
-            "stars": 2447,
+            "stars": 2446,
             "topics": [
               "calendar",
               "wxapp"
@@ -424,7 +424,7 @@
             "open_issues": 3,
             "owner": "lidong1665",
             "repo": "WeiXinProject",
-            "stars": 168,
+            "stars": 166,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22501,
+            "stars": 22503,
             "topics": [
               "weapp",
               "wepy"
@@ -628,7 +628,7 @@
             "open_issues": 217,
             "owner": "icindy",
             "repo": "wxParse",
-            "stars": 7701,
+            "stars": 7702,
             "topics": [
               "html",
               "markdown",
@@ -765,7 +765,7 @@
             "open_issues": 19,
             "owner": "weapp-socketio",
             "repo": "wxapp-socket-io",
-            "stars": 303,
+            "stars": 302,
             "topics": [
               "socket",
               "weapp-socket"
@@ -883,7 +883,7 @@
             "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2967,
+            "stars": 2966,
             "topics": [
               "miniapp",
               "wechat",
@@ -1296,7 +1296,7 @@
             "open_issues": 10,
             "owner": "lin-xin",
             "repo": "wxapp-mall",
-            "stars": 1670,
+            "stars": 1671,
             "topics": [
               "wechat",
               "wxapp"
@@ -1320,7 +1320,7 @@
             "open_issues": 6,
             "owner": "skyvow",
             "repo": "m-mall",
-            "stars": 1550,
+            "stars": 1549,
             "topics": [
               "promise-api",
               "promise-wx",
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1455,
+            "stars": 1456,
             "topics": [
               "javascript",
               "miniapp",
@@ -1605,27 +1605,6 @@
         },
         {
           "node_type": "item",
-          "title": "wechatapp-news-reader",
-          "description": "★59 - 新闻阅读器",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "微信小程序 —— 新闻阅读器",
-            "homepage": null,
-            "id": 74869426,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2022-05-26T12:21:02Z",
-            "open_issues": 0,
-            "owner": "vace",
-            "repo": "wechatapp-news-reader",
-            "stars": 526,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "仿芒果TV",
           "description": "★326 - 微信小程序demo",
           "children": [],
@@ -1640,6 +1619,27 @@
             "open_issues": 3,
             "owner": "web-Marker",
             "repo": "wechat-Development",
+            "stars": 525,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wechatapp-news-reader",
+          "description": "★59 - 新闻阅读器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "微信小程序 —— 新闻阅读器",
+            "homepage": null,
+            "id": 74869426,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2022-05-26T12:21:02Z",
+            "open_issues": 0,
+            "owner": "vace",
+            "repo": "wechatapp-news-reader",
             "stars": 525,
             "topics": []
           },
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:05:18.878Z",
+    "last_updated": "2026-11-24T04:56:07.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9512,
+      "stars": 9513,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
