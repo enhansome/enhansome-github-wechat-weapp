@@ -1748,7 +1748,7 @@
             "open_issues": 7,
             "owner": "ououpao",
             "repo": "timer",
-            "stars": 383,
+            "stars": 382,
             "topics": [
               "wxapp"
             ]
@@ -1843,7 +1843,7 @@
             "open_issues": 4,
             "owner": "hingsir",
             "repo": "weapp-douban-film",
-            "stars": 357,
+            "stars": 356,
             "topics": [
               "douban",
               "weapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:56:07.737Z",
+    "last_updated": "2026-11-25T03:42:14.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
@@ -2918,7 +2918,7 @@
       "open_issues": 12,
       "owner": "opendigg",
       "repo": "awesome-github-wechat-weapp",
-      "stars": 9513,
+      "stars": 9514,
       "topics": []
     },
     "original_repository_sha": "fcb87dccfcafb2465bdff84fab891bf2fe7a7292",
