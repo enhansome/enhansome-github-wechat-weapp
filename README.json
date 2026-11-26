@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5031,
+            "stars": 5030,
             "topics": [
               "bem-css",
               "mini-program",
@@ -556,7 +556,7 @@
             "open_issues": 381,
             "owner": "Tencent",
             "repo": "wepy",
-            "stars": 22503,
+            "stars": 22502,
             "topics": [
               "weapp",
               "wepy"
@@ -580,7 +580,7 @@
             "open_issues": 29,
             "owner": "maichong",
             "repo": "labrador",
-            "stars": 1690,
+            "stars": 1689,
             "topics": []
           },
           "first_seen": "2026-08-28T04:26:34.074Z"
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1456,
+            "stars": 1455,
             "topics": [
               "javascript",
               "miniapp",
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:42:14.292Z",
+    "last_updated": "2026-11-26T03:00:19.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
