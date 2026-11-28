@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "Tencent",
             "repo": "weui-wxss",
-            "stars": 15277,
+            "stars": 15278,
             "topics": [
               "weui",
               "wxss"
@@ -43,7 +43,7 @@
             "open_issues": 29,
             "owner": "wux-weapp",
             "repo": "wux-weapp",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "bem-css",
               "mini-program",
@@ -883,7 +883,7 @@
             "open_issues": 45,
             "owner": "wetools",
             "repo": "wept",
-            "stars": 2966,
+            "stars": 2967,
             "topics": [
               "miniapp",
               "wechat",
@@ -1248,7 +1248,7 @@
             "open_issues": 70,
             "owner": "sesine",
             "repo": "wechat-weapp-movie",
-            "stars": 2071,
+            "stars": 2070,
             "topics": [
               "mina",
               "weapp",
@@ -1346,7 +1346,7 @@
             "open_issues": 3,
             "owner": "sqaiyan",
             "repo": "NeteaseMusicWxMiniApp",
-            "stars": 1455,
+            "stars": 1454,
             "topics": [
               "javascript",
               "miniapp",
@@ -1480,7 +1480,7 @@
             "open_issues": 5,
             "owner": "giscafer",
             "repo": "wechat-weapp-mapdemo",
-            "stars": 609,
+            "stars": 610,
             "topics": [
               "markers",
               "weapp",
@@ -2002,27 +2002,6 @@
         },
         {
           "node_type": "item",
-          "title": "wxflex",
-          "description": "★75 - 微信小程序的Flex布局demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "微信小程序的Flex布局demo－4种必备常用的Flex布局模式",
-            "homepage": null,
-            "id": 71196122,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2016-10-18T01:46:00Z",
-            "open_issues": 0,
-            "owner": "icindy",
-            "repo": "wxflex",
-            "stars": 221,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:26:34.074Z"
-        },
-        {
-          "node_type": "item",
           "title": "fenda-mock",
           "description": "★153 - 使用微信小程序实现分答这款APP的基础功能",
           "children": [],
@@ -2037,6 +2016,27 @@
             "open_issues": 2,
             "owner": "davedavehong",
             "repo": "fenda-mock",
+            "stars": 220,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:26:34.074Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wxflex",
+          "description": "★75 - 微信小程序的Flex布局demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "微信小程序的Flex布局demo－4种必备常用的Flex布局模式",
+            "homepage": null,
+            "id": 71196122,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2016-10-18T01:46:00Z",
+            "open_issues": 0,
+            "owner": "icindy",
+            "repo": "wxflex",
             "stars": 220,
             "topics": []
           },
@@ -2906,7 +2906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:10:30.091Z",
+    "last_updated": "2026-11-28T02:55:19.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "微信小程序开源项目库汇总",
